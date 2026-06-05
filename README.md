@@ -30,7 +30,8 @@ Portfolio of experience and knowledge
 
 * [Diagrams](./diagrams/)
    * Metadata
-      * [Title-Block.drawio_annotated.html](./diagrams/Title-Block.drawio_annotated.html)
+      * ![Title-Block_annotated-100-percent.png](./diagrams/Title-Block_annotated-100-percent.png)
+      * [Title Block](https://parkdesigns.atlassian.net/wiki/spaces/~ParkDesigns/pages/9109507/Title+Block)
    * 🚧 Experience Map
    * 🚧 Journey
    * 🚧 Data Flow
