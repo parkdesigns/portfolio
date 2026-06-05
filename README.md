@@ -29,7 +29,14 @@ Portfolio of experience and knowledge
 ## Diagrams
 
 * [Diagrams](./diagrams/)
-   * [Title-Block.drawio_annotated.html](./diagrams/Title-Block.drawio_annotated.html)
+   * Metadata
+      * [Title-Block.drawio_annotated.html](./diagrams/Title-Block.drawio_annotated.html)
+   * 🚧 Experience Map
+   * 🚧 Journey
+   * 🚧 Data Flow
+   * 🚧 Sequence
+   * 🚧 Data Structure
+   * 🚧 UI Decomposition
 
 ## Documentation
 
