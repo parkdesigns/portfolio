@@ -12,9 +12,9 @@ Portfolio of experience and knowledge
 
 ## Websites
 
-* [royalcaribbean.com](./websites/royalcaribbean.com) - 4 million hits/day
-* [celebritycruises.com](./websites/celebritycruises.com) - 1 million hits/day
-* [americanexpress.com](./websites/americanexpress.com) -  16 million hits/day
+* [royalcaribbean.com](./websites/royalcaribbean.com.md) - 4 million hits/day
+* [celebritycruises.com](./websites/celebritycruises.com.md) - 1 million hits/day
+* [americanexpress.com](./websites/americanexpress.com.md) -  16 million hits/day
 
 ## UI/UX
 
