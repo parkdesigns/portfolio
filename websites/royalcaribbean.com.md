@@ -22,8 +22,8 @@ Responsibilities
  * Java code
 
 Accomplishments
-  * HTML <sub> Tag
-    * Identified improperly closed HTML tags causing <sub> tag to deface half of the website home page.
+  * HTML `<sub>` Tag
+    * Identified improperly closed HTML tags causing `<sub>` tag to deface half of the website home page.
   * Intrusion Prevention System
     * Identified IPS device and misconfiguration causing major website issues by performing curl tests on different network segments
   * Read Timeouts
