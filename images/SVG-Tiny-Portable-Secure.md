@@ -372,17 +372,17 @@ or
 `ls -ltr {SVG-FILE}`
 
 
+## Reference
 
 
-SVG Tiny Portable/Secure
+### SVG Tiny Portable/Secure
 
 https://www.oasis-open.org/committees/relax-ng/compact-20021121.html
 
-
-MoveTo (M / m): Lifts the pen and moves it to a new starting point without drawing a line.
-LineTo (L / l): Draws a straight line from the current point to a new point.
-Horizontal Line (H / h): Draws a straight horizontal line.Vertical Line (V / v): Draws a straight vertical line.
-Cubic Bézier (C / c and S / s): Draws smooth curved lines using control points to bend the curve.
-Quadratic Bézier (Q / q and T / t): Draws simpler curves using a single control point.
-Arc (A / a): Draws a section of a circle or ellipse.
-ClosePath (Z / z): Draws a straight line from the current point back to the starting point to seal the shape.
+ - MoveTo (M / m): Lifts the pen and moves it to a new starting point without drawing a line.
+ - LineTo (L / l): Draws a straight line from the current point to a new point.
+- Horizontal Line (H / h): Draws a straight horizontal line.Vertical Line (V / v): Draws a straight vertical line.
+- Cubic Bézier (C / c and S / s): Draws smooth curved lines using control points to bend the curve.
+- Quadratic Bézier (Q / q and T / t): Draws simpler curves using a single control point.
+- Arc (A / a): Draws a section of a circle or ellipse.
+- ClosePath (Z / z): Draws a straight line from the current point back to the starting point to seal the shape.
