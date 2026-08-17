@@ -137,6 +137,8 @@ Portfolio of experience and knowledge
    * 🚧 WireShark
    * 🚧 [SnagIt](https://www.techsmith.com/snagit/)
    * 🚧 [TextEdit](https://support.apple.com/guide/textedit/welcome/mac)
+   * ✅️ [Inkscape](https://inkscape.org/release/inkscape-1.4.4/)
+       * ⭐ [editing SVG Tiny Portable Secure](./images/SVG-Tiny-Portable-Secure.md)
 * CLI
    * 🚧 openssl
    * 🚧 curl
