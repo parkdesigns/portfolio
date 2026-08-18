@@ -74,7 +74,15 @@ Many authors of diagrams fail to:
 | -------- | -------- | ----------- |
 | GitHub   | [https://github.com/parkdesigns](https://github.com/parkdesigns) | source repo  |
 | GitHub Pages  | [https://parkdesigns.github.io/](https://parkdesigns.github.io/s) | website  |
-| Confluence Cloud  | [https://parkdesigns.atlassian.net/wiki/spaces/~ParkDesigns](https://parkdesigns.atlassian.net/wiki/spaces/~ParkDesigns) | documentation website  |
+| Confluence Cloud  | ~~[https://parkdesigns.atlassian.net/wiki/spaces/~ParkDesigns](https://parkdesigns.atlassian.net/wiki/spaces/~ParkDesigns)~~ (Free trial ended) | documentation website  |
+
+## UX/UI
+
+   * ✅️ BIMI in Gmail app
+        * [drawio](./BIMI/Gmail-app-Phone-Inbox-BIMI-Amex-Centurion-Services-cropped.drawio)
+        * ![](./BIMI/Gmail-app-Phone-Inbox-BIMI-Amex-Centurion-Services-cropped-BIMI-bluebox.png)
+        * ![](./BIMI/Gmail-app-Phone-Inbox-BIMI-Amex-Centurion-Services-cropped-BIMI-centurion.png)
+        * ![](./BIMI/Gmail-app-Phone-Inbox-BIMI-Amex-Centurion-Services-cropped-Options.png)
 
 ## Experience Map
 
