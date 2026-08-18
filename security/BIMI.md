@@ -93,7 +93,7 @@ Post Amex layoff I proved a 32 KB svg could be generated as part of my portfolio
 
 * ![31 KB](./img/BIMI/Amex-Centurion-linear-deepblue-least-nodes-square_inkscape.svg)
 
-See [SVG Tiny Portable Secure](./SVG-Tiny-Portable-Secure.md) for how this 32 KB svg was achieved.
+See [SVG Tiny Portable Secure](../images/SVG-Tiny-Portable-Secure.md) for how this 32 KB svg was achieved.
 
 ## Reference
 
