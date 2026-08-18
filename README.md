@@ -52,7 +52,7 @@ Portfolio of experience and knowledge
 * DNS
    * 🚧 SPF
    * 🚧 DKIM
-   * ✅️ BIMI](./security/BIMI.md)
+   * ✅️ [BIMI](./security/BIMI.md)
 
 ## Products
 
