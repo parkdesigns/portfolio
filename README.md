@@ -1,8 +1,6 @@
-# portfolio
+# Portfolio
 
 Portfolio of experience and knowledge
-
-# Portfolio
 
 * Websites
 * UI/UX
@@ -48,6 +46,13 @@ Portfolio of experience and knowledge
    * 🚧 Nonfunctional Requirements (30+ created)
    * 🚧 Use Cases (200+ created)
 * 🚧 Product documentation (200+ created)
+
+## Implementations
+
+* DNS
+   * 🚧 SPF
+   * 🚧 DKIM
+   * ✅️ BIMI](./security/BIMI.md)
 
 ## Products
 

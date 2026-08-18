@@ -29,8 +29,9 @@ Benefits to Amex:
     <td bgcolor="#f4f4f4">
       <strong>ⓘ NOTE:</strong><br>
       Technology Leadership refused to acknowledge this achievement and went as far to say I should NOT have done it.<br /><br />
-      My own personal time after work was used.<br /><br />
-      Business was extremely happy.
+      Only my personal time was used.<br /><br />
+      Business was extremely happy.<br /><br />
+      CIO goals of `Best Customer Experience` and `Cyber` were the impetus.
     </td>
   </tr>
 </table>
