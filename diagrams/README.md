@@ -14,29 +14,11 @@ Though I diagrammed more than 800 diagrams at my last employer those diagrams we
 
 ## Metadata
 
-### Title Block
+### [Title Block](./Title-Block.md)
 
-Attribution and referability of a diagram enable ability to:
-* Clarify
-* Share
-* Collaborate
-* Iterate
+* ![Title-Block_100-percent.png](./Title-Block_100-percent.png)
+* ![Title-Block_annotated-100-percent.png](./Title-Block_annotated-100-percent.png)
 
-Many authors of diagrams fail to:
-* Store diagram source in public single source of truth location
-* Date or version diagram
-* Document research and notes involved in the creation of the diagram
-* Provide links in diagram itself
-
-Below is a new version of Title Block from what I used at my last employer.
-
-~~[Confluence Cloud - Park Designs > Architecture > Diagrams > Metadata > Title Block](https://parkdesigns.atlassian.net/wiki/spaces/~ParkDesigns/pages/9109507/Title+Block)~~ (Free Trial expired)
-
-![Title Block Template - Annotated](./Title-Block_annotated-100-percent.png)
-see HTML [Title Block Template - Annotated](./Title-Block.drawio_annotated.html)
-
-![Title Block Template](./Title-Block_100-percent.png)
-see HTML [Title Block Template](./Title-Block.drawio.html)
 
 ### Embedded Source
 
@@ -78,11 +60,9 @@ Many authors of diagrams fail to:
 
 ## UX/UI
 
-   * ✅️ BIMI in Gmail app
-        * [drawio](./BIMI/Gmail-app-Phone-Inbox-BIMI-Amex-Centurion-Services-cropped.drawio)
-        * ![](./BIMI/Gmail-app-Phone-Inbox-BIMI-Amex-Centurion-Services-cropped-BIMI-bluebox.png)
-        * ![](./BIMI/Gmail-app-Phone-Inbox-BIMI-Amex-Centurion-Services-cropped-BIMI-centurion.png)
-        * ![](./BIMI/Gmail-app-Phone-Inbox-BIMI-Amex-Centurion-Services-cropped-Options.png)
+### [BIMI in Gmail app](./BIMI.md)
+
+![](./BIMI/Gmail-app-Phone-Inbox-BIMI-Amex-Centurion-Services-cropped-BIMI-bluebox.png)
 
 ## Experience Map
 
