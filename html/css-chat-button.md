@@ -1,6 +1,6 @@
 # CSS driven Chat Button
 
-I took initiative by examining the UX/UI at the time in ~2017 and clearly pointed out the pitfalls of the existing image-based chat button/invites at the time. Business did not initially like the idea.
+I took initiative by examining the UX/UI at the time in ~2017 and clearly pointed out the pitfalls of the existing image-based chat button/invites at the time. Business did not initially like the idea of moving to CSS driven button.
 
 My CSS driven chat button/invite design replaced the image-based chat button/invite, improving the UX/UI.
 
@@ -40,8 +40,8 @@ Improvements
 | ![Auth Chat Offer Button pill](./img/css-chat-button/WebChat-auth-chat-button-pill_cropped_2026-08-10.png) | pill |
 | ![Auth Chat Offer Button pill hoverover](./img/css-chat-button/WebChat-auth-chat-button-pill-hoverover_cropped_2026-08-10.png) | pill hoverover |
 | ![Auth Chat Offer Button rectangle](./img/css-chat-button/WebChat-CM-UI-americanexpress.com-Customer-Service-Chat-with-Us-link_cropped_2026-08-20.png) | inline |
-| ![Auth Mobile Chat Offer Button pill hoverover](./img/css-chat-button/WebChat-auth-chat-button-circle-mobile_cropped_2026-08-10.png) | mobile disc |
-| ![Auth Mobile Offer Button pill hoverover](./img/css-chat-button/WebChat-auth-chat-button-circle-hoverover-mobile_cropped_2026-08-10.png) | mobile disc hoverover |
+| ![Auth Mobile Chat Offer Button circle hoverover](./img/css-chat-button/WebChat-auth-chat-button-circle-mobile_cropped_2026-08-10.png) | mobile circle |
+| ![Auth Mobile Offer Button circle hoverover](./img/css-chat-button/WebChat-auth-chat-button-circle-hoverover-mobile_cropped_2026-08-10.png) | mobile circle hoverover |
 
 
 ### Minimized Chat Window Button
