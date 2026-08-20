@@ -18,6 +18,7 @@ Portfolio of experience and knowledge
 
 * Contact Center - Customer
    * 🚧 Chat - Amex
+      * [CSS driven Chat Button](./html/css-chat-button.md)
    * 🚧 Email - Amex
 
 * Contact Center - Colleague
@@ -29,7 +30,11 @@ Portfolio of experience and knowledge
 * [Diagrams](./diagrams/)
    * Metadata
       * ![Title-Block_annotated-100-percent.png](./diagrams/Title-Block_annotated-100-percent.png)
-      * [Title Block](https://parkdesigns.atlassian.net/wiki/spaces/~ParkDesigns/pages/9109507/Title+Block)
+      * [Title Block](./diagrams/Title-Block.md)
+      * ~~[Title Block](https://parkdesigns.atlassian.net/wiki/spaces/~ParkDesigns/pages/9109507/Title+Block)~~ (Free trial ended)
+   * UX/UI
+      * ![BIMI in Gmail app](./diagrams/BIMI/Gmail-app-Phone-Inbox-BIMI-Amex-Centurion-Services-cropped-BIMI-bluebox.png)
+      * [BIMI](./diagrams/BIMI.md)
    * 🚧 Experience Map
    * 🚧 Journey
    * 🚧 Data Flow
@@ -46,6 +51,9 @@ Portfolio of experience and knowledge
    * 🚧 Nonfunctional Requirements (30+ created)
    * 🚧 Use Cases (200+ created)
 * 🚧 Product documentation (200+ created)
+* ✅️ How-tos (50+ created)
+   * [How to convert SVG to PNG](./how-tos/howto-convert-svg-to-png.md)
+   * [How to mock Mac keyboard keys](./how-tos/howto-mock-Mac-keyboard-keys.md)
 
 ## Implementations
 
