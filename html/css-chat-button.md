@@ -29,6 +29,9 @@ Improvements
 
 ## New HTML
 
+* ![](./img/css-chat-button/WebChat-auth-chat-button-pill_cropped_2026-08-10.png)
+* ![](./img/css-chat-button/WebChat-auth-chat-button-pill-hoverover_cropped_2026-08-10.png)
+
 HTML
 ```
 <div id="chatInvite" style="display: block;">
@@ -45,6 +48,23 @@ HTML
 #chatInvite {
     z-index: 100;
 }
+```
+
+Provides for variances like:
+
+Japanese `チャット` for "Chat"
+
+* ![](./img/css-chat-button/WebChat-auth-chat-button-pill-ja-JP_contrived_cropped_2026-08-21.png)
+* ![](./img/css-chat-button/WebChat-auth-chat-button-pill-ja-JP-hoverover_contrived_cropped_2026-08-21.png)
+
+```
+<div id="chatInvite" style="display: block;">
+    <div class="flex legacy" id="chatButtonInvite" alt="Chat">
+        <button class="btn btn-icon btn-sm icon-hover dls-icon-chat dls-chat-pill dls-chat-pill-blue aa-chat-pill" style="background-color:#00175A;border-radius: 2rem;" aria-label="Chat" tabindex="0">
+            <span class="lbl-chat">チャット</span>
+        </button>
+    </div>
+</div>
 ```
 
 ## Chat Offer Button
