@@ -19,6 +19,7 @@ Portfolio of experience and knowledge
 * Contact Center - Customer
    * 🚧 Chat - Amex
       * [CSS driven Chat Button](./html/css-chat-button.md)
+      * [i18n & g10n of Images with Text](./html/i18n-g10n-images-w-text.md)
    * 🚧 Email - Amex
 
 * Contact Center - Colleague
