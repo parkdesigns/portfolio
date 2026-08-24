@@ -61,8 +61,23 @@ Below is result of all images being internationalized / globalized.
 <div id="chatInvite" style="display: block;">
     <div class="flex legacy" id="chatButtonInvite" alt="Chat">
         <button class="btn btn-icon btn-sm icon-hover dls-icon-chat dls-chat-pill dls-chat-pill-blue aa-chat-pill" style="background-color:#00175A;border-radius: 2rem;" aria-label="Chat" tabindex="0">
+            <span class="lbl-chat">チャット</span>
+        </button>
+    </div>
+</div>
+```
+
+"Chat" text in English in HTML (not in an image)
+
+<img src="./img/i18n-g10n-images-w-text/WebChat-auth-chat-button-pill_cropped_2026-08-10.png" height="50" />
+
+```
+<div id="chatInvite" style="display: block;">
+    <div class="flex legacy" id="chatButtonInvite" alt="Chat">
+        <button class="btn btn-icon btn-sm icon-hover dls-icon-chat dls-chat-pill dls-chat-pill-blue aa-chat-pill" style="background-color:#00175A;border-radius: 2rem;" aria-label="Chat" tabindex="0">
             <span class="lbl-chat">Chat</span>
         </button>
     </div>
 </div>
 ```
+
