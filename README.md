@@ -7,6 +7,7 @@ Portfolio of experience and knowledge
 * Diagrams
 * Documentation
 * Products
+* Badges
 
 ## Websites
 
@@ -18,8 +19,8 @@ Portfolio of experience and knowledge
 
 * Contact Center - Customer
    * 🚧 Chat - Amex
-      * [CSS driven Chat Button](./html/css-chat-button.md)
-      * [i18n & g10n of Images with Text](./html/i18n-g10n-images-w-text.md)
+      * [CSS driven Chat Button](./code/html/css-chat-button.md)
+      * [i18n & g10n of Images with Text](./code/html/i18n-g10n-images-w-text.md)
    * 🚧 Email - Amex
 
 * Contact Center - Colleague
@@ -160,3 +161,8 @@ Portfolio of experience and knowledge
 * Keyboard Shortcuts
    * 🚧 Screencapture
 * 🚧 . . .
+
+
+## [Badges](./badges/README.md)
+
+* <img src="./badges/img/SP-SAFe-Practitioner-cert-badge.png" height="50px" /> [SP](./SP.md)
