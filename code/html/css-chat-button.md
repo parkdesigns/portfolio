@@ -47,6 +47,17 @@ HTML
 ```
 #chatInvite {
     z-index: 100;
+    background-color: #00175A;
+    border-radius: 2rem;
+    color: #fff;
+}
+
+#chatInvite .dls-icon-chat:before {
+    background-image: url(img/chat.outline.svg);
+}
+
+#chatInvite .dls-icon-chat:hover:before, #gacLiveChat .dls-icon-chat:hover:before {
+    background-image: url(img/chat.filled.svg) ;
 }
 ```
 
