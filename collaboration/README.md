@@ -23,6 +23,7 @@
   * Tooling
   * Procedures
   * DevOps
+* see [Training Meetings](./Training-meetings.md) for more details
 
 ## [Tech Colocation with Business](./Tech-Colocation-with-Business.md)
 
@@ -46,9 +47,17 @@
   * Early ET for IST & BST individuals
   * Late morning ET for MST individuals
   * Late ET for ET individuals
-* Mentees
-  * Team Leads
-  * Developers
-  * DevOps
-  * Business
 * see [Mentoring](./Mentoring.md) for more details
+
+## [Assisting](./Assisting.md)
+
+* Assisted anyone with a question or need
+  * Laptop
+  * Tool how-tos
+  * Tool access
+  * IAM
+  * Procedures
+  * Products
+  * Code review
+  * Technology
+* see [Assisting](./Assisting.md) for more details

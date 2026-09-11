@@ -4,6 +4,11 @@ In mid-2020 I started hosting and presenting:
 
 * Architecture Review meetings
 
+## Occurrences
+
+* `250+` Scrum team meetings held to review Architecture
+  * `2 - 3` Scrum teams
+
 ## Timings
 
 |  |  |
@@ -25,6 +30,7 @@ In mid-2020 I started hosting and presenting:
 * Outlook M365 Group Calendar
   * Meeting
   * Date/time
+  * Link to Confluence page
 * Slack
   * Reminder with Webex link
 * Webex

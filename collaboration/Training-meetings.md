@@ -5,6 +5,12 @@ Occassionaly I would schedule `Training` meetings.
 * Run tool exercises
 * Teach new tool
 
+## Occurrences
+
+* `30+` Training meetings
+  * `10+` attendees (typically)
+  * `60+` attendees (rarely)
+
 ## Attendees
 
 * Team Leads
