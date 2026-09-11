@@ -92,4 +92,5 @@ These documents provide examples, screenshots, contacts, diagrams, explanations,
 * GitHub alternatives
   * [Main Confluence page](../../../collaboration/pages/1-on-1-Main-page.md#confluence-example)
 
+* Screenshot of GitHub page
 <img src="./img/GitHub-github.com-parkdesigns-portfolio-activity-meetings-JohnDoe-StevenPark.png" width="1200px" />

@@ -27,4 +27,5 @@ Location: https://www.webex.com/<br />
 * GitHub alternatives
   * [Meeting Confluence page](../../../../collaboration/pages/1-on-1-Meeting-page.md#confluence-example)
 
+* Screenshot of GitHub page
 <img src="./img/GitHub-github.com-parkdesigns-portfolio-activity-meetings-2026-09-01-0500-MST-JohnDoe-StevenPark-Meeting.png" width="1200px" />

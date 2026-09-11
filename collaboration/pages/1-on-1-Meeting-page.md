@@ -26,7 +26,7 @@ Benefits
 
 `2026-09-01 0500 MST John Doe : Steven Park Meeting`
 
-<img src="./img/Confluence-parkdesigns.atlassian.net-2026-09-01-0500-MST-1-on-1-Meeting.png" width="1200px" />
+<img src="./img/GitHub-github.com-parkdesigns-portfolio-activity-meetings-2026-09-01-0500-MST-JohnDoe-StevenPark-Meeting.png" width="1200px" />
 
 # Confluence example
 
@@ -52,3 +52,8 @@ Location: https://www.webex.com/<br />
  
 
 ### Notes
+
+## Reference
+
+* Link to GitHub example
+  * [2026-09-01 0500 MST John Doe : Steven Park Meeting](../../activity/meetings/1-on-1s/John-Doe/2026-09-01-0500-MST-JohnDoe-StevenPark-Meeting.md)

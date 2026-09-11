@@ -20,7 +20,7 @@ Benefits
 
 # GitHub example
 
-<img src="./img/Confluence-parkdesigns.atlassian.net-Meetings-JohnDoe-Steven.png" width="1200px" />
+<img src="./img/GitHub-github.com-parkdesigns-portfolio-activity-meetings-JohnDoe-StevenPark.png" width="1200px" />
 
 # Confluence example
 
@@ -114,3 +114,7 @@ These documents provide examples, screenshots, contacts, diagrams, explanations,
   * TCP
     * RFC 9293: Transmission Control Protocol (TCP) https://datatracker.ietf.org/doc/rfc9293/
 
+## Reference
+
+* Link to GitHub example
+  * [John Doe : Steven Park](../../activity/meetings/1-on-1s/John-Doe:Steven-Park.md)

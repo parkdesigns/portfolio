@@ -162,6 +162,13 @@ Portfolio of experience and knowledge
    * 🚧 Screencapture
 * 🚧 . . .
 
+## [Collaboration](./collaboration/README.md)
+
+* [Architecture meetings](./collaboration/Architecture-meetings.md)
+* [Cross-team meetings](./collaboration/Cross-team-meetings.md)
+* [Training meetings](./collaboration/Training-meetings.md)
+* [Tech Colocation with Business](./collaboration/Tech-Colocation-with-Business.md)
+* [Mentoring](./collaboration/Mentoring.md)
 
 ## [Badges](./badges/README.md)
 
