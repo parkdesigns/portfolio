@@ -6,7 +6,9 @@ Portfolio of experience and knowledge
 * UI/UX
 * Diagrams
 * Documentation
+* Implementations
 * Products
+* Collaboration
 * Badges
 
 ## Websites
@@ -53,7 +55,7 @@ Portfolio of experience and knowledge
    * 🚧 Nonfunctional Requirements (30+ created)
    * 🚧 Use Cases (200+ created)
 * 🚧 Product documentation (200+ created)
-* ✅️ How-tos (50+ created)
+* How-tos (50+ created)
    * [How to convert SVG to PNG](./how-tos/howto-convert-svg-to-png.md)
    * [How to mock Mac keyboard keys](./how-tos/howto-mock-Mac-keyboard-keys.md)
 
@@ -62,13 +64,13 @@ Portfolio of experience and knowledge
 * DNS
    * 🚧 SPF
    * 🚧 DKIM
-   * ✅️ [BIMI](./security/BIMI.md)
+   * [BIMI](./security/BIMI.md)
 
 ## Products
 
 * DNS
    * 🚧 BIND
-* CDN
+* Edge / CDN
    * 🚧 [Akamai](https://parkdesigns.atlassian.net/wiki/spaces/~ParkDesigns/pages/2228225/Akamai)
 * WAF
    * 🚧 Akamai WAF (Kona)
@@ -152,7 +154,7 @@ Portfolio of experience and knowledge
    * 🚧 WireShark
    * 🚧 [SnagIt](https://www.techsmith.com/snagit/)
    * 🚧 [TextEdit](https://support.apple.com/guide/textedit/welcome/mac)
-   * ✅️ [Inkscape](https://inkscape.org/release/inkscape-1.4.4/)
+   * [Inkscape](https://inkscape.org/release/inkscape-1.4.4/)
        * ⭐ [editing SVG Tiny Portable Secure](./images/SVG-Tiny-Portable-Secure.md)
 * CLI
    * 🚧 openssl
@@ -173,3 +175,14 @@ Portfolio of experience and knowledge
 ## [Badges](./badges/README.md)
 
 * <img src="./badges/img/SP-SAFe-Practitioner-cert-badge.png" height="50px" /> [SP](./SP.md)
+
+## [Activity](./activity/README.md)
+
+* [Posts](./activity/posts/README.md)
+  * 2026-09-13
+    * [SVG Tiny Portable/Secure](./activity/posts/2026-09-13-svg-tiny-ps.md)
+    * [BIMI](./activity/posts/2026-09-13-bimi.md)
+  * 2026-09-04
+    * [i18n - Internationalization (button)](./activity/posts/2026-09-04-i18n-button.md)
+    * [i18n - Internationalization (images)](./activity/posts/2026-09-04-i18n-images.md)
+    * [Title Blocks](./activity/posts/2026-09-04-title-blocks.md)

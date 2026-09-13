@@ -15,3 +15,15 @@
   * Subordinate
     * [Subordinate Sebastian : Steven Park](./meetings/1-on-1s/SubSebastian-StevenPark.md)
 
+## Posts
+
+* 2026-09-13
+  * [SVG Tiny Portable/Secure](./posts/2026-09-13-svg-tiny-ps.md)
+  * [BIMI](./posts/2026-09-13-bimi.md)
+* 2026-09-04
+  * [i18n - Internationalization (button)](./posts/2026-09-04-i18n-button.md)
+  * [i18n - Internationalization (images)](./posts/2026-09-04-i18n-images.md)
+  * [Title Blocks](./posts/2026-09-04-title-blocks.md)
+
+## Books
+

@@ -27,4 +27,4 @@ For more see,
 
 ## Reference
 
-* [LinkedIn post 2026-09-04](https://www.linkedin.com/feed/update/urn:li:activity:7501757234872348672/)
+* [LinkedIn post 2026-09-04](https://www.linkedin.com/posts/steven-park-6611856_title-blocks-drawings-mockups-with-title-activity-7501757234872348672-EzZW)

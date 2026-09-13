@@ -19,7 +19,7 @@ Use cases:
 
 * Email Authenticity
   * BIMI - Brand Indicators for Message Identification
-    - see [bimigroup.org](https://bimigroup.org/))
+    - see [bimigroup.org](https://bimigroup.org/)
     - see IETF draft [RFC BIMI](https://datatracker.ietf.org/doc/draft-brand-indicators-for-message-identification/)
 
 ## Requirements
