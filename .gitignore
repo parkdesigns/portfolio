@@ -1,0 +1,4 @@
+# See https://github.com/github/gitignore
+
+# Ignore Apple files
+.DS_Store
