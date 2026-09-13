@@ -2,8 +2,12 @@
 
 ## Colleague
 
-* [John Doe : Steven Park](./John-Doe:Steven-Park.md)
+* [John Doe : Steven Park](./JohnDoe-StevenPark.md)
 
 ## Superior
 
-* [Dr Hans : Steven Park](./John-Doe:Steven-Park.md)
+* [Director Dawson : Steven Park](./DirDawson-StevenPark.md)
+
+## Subordinate
+
+* [Subordinate Sebastian : Steven Park](./SubSebastian-StevenPark.md)
