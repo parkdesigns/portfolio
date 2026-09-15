@@ -8,12 +8,12 @@
 </div>
 
 # Steven Park
-**Staff Architect**  
+**Staff Architect**<br />
 Email: [parkdesigns@gmail.com](mailto:parkdesigns@gmail.com)  
 LinkedIn: [https://www.linkedin.com/in/steven-park-6611856](https://www.linkedin.com/in/steven-park-6611856)  
-GitHub: [https://parkdesigns.github.io/](https://parkdesigns.github.io/)  
-X: [https://x.com/StevenPark76086](https://x.com/StevenPark76086)  
-Website: TBD  
+GitHub: [https://parkdesigns.github.io/](https://parkdesigns.github.io/)
+X: [https://x.com/StevenPark76086](https://x.com/StevenPark76086)
+Website: TBD
 <br />
 
 ## Activity
@@ -34,7 +34,7 @@ Website: TBD
 ### Layoff/position eliminated
 
 <div style="margin-right: 65px">
-  Unemployed  
+  Unemployed<br />
   May 2026 - present
 </div>
 
@@ -49,9 +49,9 @@ Certifications<br />
 
 <br />
 
-Portfolio
-* GitHub - [parkdesigns.github.io](https://parkdesigns.github.io/)
-* Website - [parkdesigns.uk](https://parkdesigns.uk)
+Portfolio<br />
+⠀⠀• GitHub - <a href="https://parkdesigns.github.io/">parkdesigns.github.io</a><br />
+⠀⠀• Website - <a href="https://parkdesigns.uk">parkdesigns.uk</a><br />
 
 </div>
 
@@ -60,7 +60,7 @@ Portfolio
 ### American Express
 
 <div style="margin-right: 65px">
-  Full-time • 9 yrs  
+  Full-time • 9 yrs<br />
   Sunrise, FL, USA
 </div>
 
@@ -69,69 +69,69 @@ Portfolio
 <div style="margin-left: 50px; margin-bottom: 50px;">
     <div style="font-weight: bold;">Sr Software Engineer II - Architect</div>
     <div style="color: grey;">
-        Nov 2021 - May 2026 • 4 yrs 7 mos  
-        Remote  
+        Nov 2021 - May 2026 • 4 yrs 7 mos<br />
+        Remote<br />
     </div>
 
 <br />
 Unsupervised since Sr Staff Engineer retired late 2023
 
-Contact Center Channels  
-⠀⠀- Chat ............... 4 yrs web-based customer-to-agent chats using custom built solution, HTTP WebSocket  
-⠀⠀- Email ............. 3 yr emails bi-directional customer-to-agent using SMTP email & web technologies  
-⠀⠀- Social ............ 4 yrs social media customer-to-agent communication primarily for X.com using COTS  
+Contact Center Channels<br />
+⠀⠀- Chat ............... 4 yrs web-based customer-to-agent chats using custom built solution, HTTP WebSocket<br />
+⠀⠀- Email ............. 3 yr emails bi-directional customer-to-agent using SMTP email & web technologies<br />
+⠀⠀- Social ............ 4 yrs social media customer-to-agent communication primarily for X.com using COTS<br />
 
-Achievements  
- • Built documentation for Email (1,500+ pages) & Social (100+ pages) from nothing  
- • Created internal doc Libraries for Chat, Email, & Social containing 30,000+ file artifacts  
- • Researched & Designed metrics for Availability Dashboard & Scorecard for Chat  
- • Threat Modeling of Chat, Email, & Social systems (600+ countermeasures)  
- • Designed Architecture of Email ($4M/yr savings)  
- • Privacy Risk Assessment of Chat & Email (CA, DE, IT, JP, US, etc)  
- • Architecture as Design of Chat & Email  
- • Designed Authentication solution in travel.americanexpress.com 3rd Party website for Chat  
- • Designed Anonymous Authentication solution in americanexpress.com website for Chat  
- • Acted as Data Custodian for Chat & Email  
- • Designed Data Retention Lifecycle of Chat through Google BigQuery queries  
- • Decommissioned LivePerson Chat ($2M/yr savings)  
- • Mentored 10+ Colleagues over 4 year period (1 - 2 meetings/mo)  
- • Hosted over 200+ Architecture Review meetings; 20+ Design meetings  
- • Governed & Supported production operations: led multiple Incident RCA & Resolution emergency calls (20+)  
+Achievements<br />
+ • Built documentation for Email (1,500+ pages) & Social (100+ pages) from nothing<br />
+ • Created internal doc Libraries for Chat, Email, & Social containing 30,000+ file artifacts<br />
+ • Researched & Designed metrics for Availability Dashboard & Scorecard for Chat<br />
+ • Threat Modeling of Chat, Email, & Social systems (600+ countermeasures)<br />
+ • Designed Architecture of Email ($4M/yr savings)<br />
+ • Privacy Risk Assessment of Chat & Email (CA, DE, IT, JP, US, etc)<br />
+ • Architecture as Design of Chat & Email<br />
+ • Designed Authentication solution in travel.americanexpress.com 3rd Party website for Chat<br />
+ • Designed Anonymous Authentication solution in americanexpress.com website for Chat<br />
+ • Acted as Data Custodian for Chat & Email<br />
+ • Designed Data Retention Lifecycle of Chat through Google BigQuery queries<br />
+ • Decommissioned LivePerson Chat ($2M/yr savings)<br />
+ • Mentored 10+ Colleagues over 4 year period (1 - 2 meetings/mo)<br />
+ • Hosted over 200+ Architecture Review meetings; 20+ Design meetings<br />
+ • Governed & Supported production operations: led multiple Incident RCA & Resolution emergency calls (20+)<br />
 
-Products  
+Products<br />
  • Contact Center: LiveWorld Social; Genesys Chat & Email
 </div>
 
 <div style="margin-left: 50px; margin-bottom: 50px;">
     <div style="font-weight: bold;">Sr Software Engineer I - Architect</div>
     <div style="color: grey;">
-        Jun 2017 - Nov 2021 • 4 yrs 6 mos  
-        On-site  
+        Jun 2017 - Nov 2021 • 4 yrs 6 mos<br />
+        On-site<br />
     </div>
 
 <br />
 Supervised by Sr Staff Engineer
 
-Contact Center Channels  
-⠀⠀- Chat ............... 4 yrs web-based customer-to-agent chats using COTS & inhouse, HTTP WebSocket  
-⠀⠀- Co-Browse .... 4 yrs web-based co-browse customer “screen sharing” sessions with agent  
-⠀⠀- Social ............ 4 yrs social media customer-to-agent communication primarily for Twitter using COTS  
+Contact Center Channels<br />
+⠀⠀- Chat ............... 4 yrs web-based customer-to-agent chats using COTS & inhouse, HTTP WebSocket<br />
+⠀⠀- Co-Browse .... 4 yrs web-based co-browse customer “screen sharing” sessions with agent<br />
+⠀⠀- Social ............ 4 yrs social media customer-to-agent communication primarily for Twitter using COTS<br />
 
-Achievements  
- • Built documentation for Chat (5,000+ pages) & CoBrowse (100+ pages) from nothing  
- • Designed ETL of LivePerson Chat data to Amex for data retention needs  
- • Designed Tagging solution in americanexpress.com website for Chat  
- • Led Pilot solution of out-of-the-box Genesys WebChat   
- • Designed Authentication integration in Chat leveraging americanexpress.com website Auth  
- • Designed Privacy solution in Chat  
- • Designed Integration of web-based Chat with mobile-app Chat core  
- • Created & Executed DR Plan for Chat & Routing backend   
- • Maintained & Improved DR Plan(s) for Chat  
- • Performed 1st pilot Privacy by Design (aka Privacy Risk Assessment) for Chat  
- • Hosted over 100+ Architecture Review meetings; 30+ Design meetings  
- • Governed production operations: led multiple Incident RCA & Resolution emergency calls (60+)  
+Achievements<br />
+ • Built documentation for Chat (5,000+ pages) & CoBrowse (100+ pages) from nothing<br />
+ • Designed ETL of LivePerson Chat data to Amex for data retention needs<br />
+ • Designed Tagging solution in americanexpress.com website for Chat<br />
+ • Led Pilot solution of out-of-the-box Genesys WebChat <br />
+ • Designed Authentication integration in Chat leveraging americanexpress.com website Auth<br />
+ • Designed Privacy solution in Chat<br />
+ • Designed Integration of web-based Chat with mobile-app Chat core<br />
+ • Created & Executed DR Plan for Chat & Routing backend <br />
+ • Maintained & Improved DR Plan(s) for Chat<br />
+ • Performed 1st pilot Privacy by Design (aka Privacy Risk Assessment) for Chat<br />
+ • Hosted over 100+ Architecture Review meetings; 30+ Design meetings<br />
+ • Governed production operations: led multiple Incident RCA & Resolution emergency calls (60+)<br />
 
-Products  
+Products<br />
  • Contact Center: LiveWorld Social; Genesys Chat & Email
 </div>
 
@@ -140,7 +140,7 @@ Products
 ### Royal Caribbean International
 
 <div style="margin-right: 65px">
-  Full-time • 6 yrs  
+  Full-time • 6 yrs<br />
   Miramar, FL, United States
 </div>
 
@@ -149,23 +149,23 @@ Products
 <div style="margin-left: 50px; margin-bottom: 50px;">
     <div style="font-weight: bold;">Sr Software Engineer</div>
     <div style="color: grey;">
-        Apr 2011 - Mar 2017 • 6 yrs  
-        On-site  
+        Apr 2011 - Mar 2017 • 6 yrs<br />
+        On-site<br />
     </div>
 
 <br />
 
-Roles  
-⠀- Application Operations ...... 0.7 yrs - ops team supporting B2C/B2B websites, web services, etc  
-⠀- Enterprise Services ........... 1.4 yrs - ESL web services Tech Lead/Production Support Lead  
-⠀- CelebrityCruises.com ........ 0.7 yrs - website Tech Lead/Production Support Lead  
-⠀- RoyalCaribbean.com .......... 2.9 yrs - websites (6) Tech Lead/Production Support Lead  
+Roles<br />
+⠀- Application Operations ...... 0.7 yrs - ops team supporting B2C/B2B websites, web services, etc<br />
+⠀- Enterprise Services ........... 1.4 yrs - ESL web services Tech Lead/Production Support Lead<br />
+⠀- CelebrityCruises.com ........ 0.7 yrs - website Tech Lead/Production Support Lead<br />
+⠀- RoyalCaribbean.com .......... 2.9 yrs - websites (6) Tech Lead/Production Support Lead<br />
 
-Achievements  
- • Took responsibility for every layer: CDN, FW, IPS, LB, Gateway, Web/App/Srv, HTTP/TCP/IP, Unix  
- • Identified and analyzed mystifying issues involving IPS, AIX-VIOs, GFW, PConns, HTTP 504s, etc  
- • Recognized across all departments as a true expert, veteran, and 365/24/7 duty-phone holder  
- • Tooling used:  sed/awk/grep, Splunk, Dynatrace, Ganglia, WireShark, SoapUI/Postman, Firefox addons  
+Achievements<br />
+ • Took responsibility for every layer: CDN, FW, IPS, LB, Gateway, Web/App/Srv, HTTP/TCP/IP, Unix<br />
+ • Identified and analyzed mystifying issues involving IPS, AIX-VIOs, GFW, PConns, HTTP 504s, etc<br />
+ • Recognized across all departments as a true expert, veteran, and 365/24/7 duty-phone holder<br />
+ • Tooling used:  sed/awk/grep, Splunk, Dynatrace, Ganglia, WireShark, SoapUI/Postman, Firefox addons<br />
  </div>
 
 <img src="./img/CTG-logo.png" width="80px" style="float: left; margin-right: 15px" />
@@ -173,7 +173,7 @@ Achievements
 ### Computer Task Group
 
 <div style="margin-right: 65px">
-  Full-time • 3 yrs 4 mos  
+  Full-time • 3 yrs 4 mos<br />
   Flowood, MS, USA
 </div>
 
@@ -182,21 +182,21 @@ Achievements
 <div style="margin-left: 50px; margin-bottom: 50px;">
     <div style="font-weight: bold;">Software Engineer</div>
     <div style="color: grey;">
-        Jan 2008 - Apr 2011 • 3 yrs 4 mos  
-        On-site  
+        Jan 2008 - Apr 2011 • 3 yrs 4 mos<br />
+        On-site<br />
     </div>
 
 <br />
 
-Achievements  
- • Designed and coded multiple high profile internal and external BCBSMS web applications over 3 years  
- • Provided solid ownership of tasks and lead other developers in achieving goals in a flexible manner  
- • Gathered and documented software requirements, implemented complex business rules into J2EE apps  
- • Performed Object Oriented Analysis & Design to generate Business Domain Model and architecture  
- • Used Struts 1.1/2.0, Spring, JUnit, iBATIS, DbUnit, WebSphere 6.1, RAD, CVS/Subversion, & Maven  
- • Utilized FireBug and Apache Web Server to develop HTML, CSS, JavaScript, and Dojo for web pages  
- • Presented applications on a regular basis to major stakeholders at client to solicit feedback/approval  
- • Participated in full SDLC from inception (requirements) to transition (production, pilot, maintenance)  
+Achievements<br />
+ • Designed and coded multiple high profile internal and external BCBSMS web applications over 3 years<br />
+ • Provided solid ownership of tasks and lead other developers in achieving goals in a flexible manner<br />
+ • Gathered and documented software requirements, implemented complex business rules into J2EE apps<br />
+ • Performed Object Oriented Analysis & Design to generate Business Domain Model and architecture<br />
+ • Used Struts 1.1/2.0, Spring, JUnit, iBATIS, DbUnit, WebSphere 6.1, RAD, CVS/Subversion, & Maven<br />
+ • Utilized FireBug and Apache Web Server to develop HTML, CSS, JavaScript, and Dojo for web pages<br />
+ • Presented applications on a regular basis to major stakeholders at client to solicit feedback/approval<br />
+ • Participated in full SDLC from inception (requirements) to transition (production, pilot, maintenance)<br />
  </div>
 
 <img src="./img/FICO-logo-white-bg-blue.png" width="80px" style="float: left; margin-right: 15px" />
@@ -204,7 +204,7 @@ Achievements
 ### FICO
 
 <div style="margin-right: 65px">
-  Full-time • 1 yr 3 mos  
+  Full-time • 1 yr 3 mos<br />
   Chicago, IL, USA
 </div>
 
@@ -213,19 +213,19 @@ Achievements
 <div style="margin-left: 50px; margin-bottom: 50px;">
     <div style="font-weight: bold;">Systems Integration Consultant</div>
     <div style="color: grey;">
-        Apr 2006 - Jun 2007 • 1 yr 3 mos  
-        On-site  
+        Apr 2006 - Jun 2007 • 1 yr 3 mos<br />
+        On-site<br />
     </div>
 
 <br />
 
-Achievements  
- • Supported hosted web, app, database, and email servers in terms of configs and surrounding processes  
- • Maintained J2EE web-container based Struts application for client in creating and updating features  
- • Migrated application from WebLogic 6.1 to Tomcat 5.5.17 and from Apache 1.3.22 to Apache 2.0.55  
- • Assisted database migration from Oracle 8i to 9i, migration of cron jobs to Unisys, and user changes  
- • Performed load testing using Mercury Load Runner and improved the general practice of QA testing	  
- • Managed many SDLC/project aspects, examples - documentation, estimates, requirements elicitation  
+Achievements<br />
+ • Supported hosted web, app, database, and email servers in terms of configs and surrounding processes<br />
+ • Maintained J2EE web-container based Struts application for client in creating and updating features<br />
+ • Migrated application from WebLogic 6.1 to Tomcat 5.5.17 and from Apache 1.3.22 to Apache 2.0.55<br />
+ • Assisted database migration from Oracle 8i to 9i, migration of cron jobs to Unisys, and user changes<br />
+ • Performed load testing using Mercury Load Runner and improved the general practice of QA testing	<br />
+ • Managed many SDLC/project aspects, examples - documentation, estimates, requirements elicitation<br />
  </div>
 
 <img src="./img/IBM-logo-white-bg-blue.png" width="80px" style="float: left; margin-right: 15px" />
@@ -233,7 +233,7 @@ Achievements
 ### IBM Contract
 
 <div style="margin-right: 65px">
-  Full-time • 10 mos  
+  Full-time • 10 mos<br />
   Raliegh-Durham-Chapel Hill Area, NC, USA
 </div>
 
@@ -242,19 +242,19 @@ Achievements
 <div style="margin-left: 50px; margin-bottom: 50px;">
     <div style="font-weight: bold;">Systems Administrator</div>
     <div style="color: grey;">
-        Jun 2004 - Mar 2005 • 10 mos  
-        On-site  
+        Jun 2004 - Mar 2005 • 10 mos<br />
+        On-site<br />
     </div>
 
 <br />
 
-Achievements  
- • Analyzed Logidex - a software asset management system based on RAS specification (see OMG.org)  
- • Programmed extension to Logidex using WebSphere family products  (WSAD, WAS, MQ) and DB2  
- • Used technologies and APIs:  EJB, EJB-QL, SOAP, WSDL, JMS, SQL, log4j, Ant, JUnit, and Cactus  
- • Secured application w/ Java 2 Security declarative policy files, HTTP over SSL, & basic authentication  
- • Administered test-box WebSphere Application Server 5.x with AdminConsole / wsadmin scripts(JACL)  
- • Researched RUP and other modeling, process, and test oriented aspects of software lifecycle for project  
+Achievements<br />
+ • Analyzed Logidex - a software asset management system based on RAS specification (see OMG.org)<br />
+ • Programmed extension to Logidex using WebSphere family products  (WSAD, WAS, MQ) and DB2<br />
+ • Used technologies and APIs:  EJB, EJB-QL, SOAP, WSDL, JMS, SQL, log4j, Ant, JUnit, and Cactus<br />
+ • Secured application w/ Java 2 Security declarative policy files, HTTP over SSL, & basic authentication<br />
+ • Administered test-box WebSphere Application Server 5.x with AdminConsole / wsadmin scripts(JACL)<br />
+ • Researched RUP and other modeling, process, and test oriented aspects of software lifecycle for project<br />
 </div>
 
 ## Education
