@@ -53,8 +53,6 @@ Portfolio<br />
 
 </div>
 
-<br />
-
 <img src="./img/Amex-bluebox-logo.png" width="80px" style="float: left; margin-right: 15px" />
 
 ### American Express
@@ -67,11 +65,11 @@ Portfolio<br />
 <br />
 
 <div style="margin-left: 50px; margin-bottom: 50px;">
-<div style="font-weight: bold;">Sr Software Engineer II - Architect</div>
-<div style="color: grey;">
-    Nov 2021 - May 2026 • 4 yrs 7 mos<br />
-    Remote<br />
-</div>
+    <div style="font-weight: bold;">Sr Software Engineer II - Architect</div>
+    <div style="color: grey;">
+        Nov 2021 - May 2026 • 4 yrs 7 mos<br />
+        Remote<br />
+    </div>
 
 <br />
 Unsupervised since Sr Staff Engineer retired late 2023
@@ -102,14 +100,12 @@ Products<br />
  • Contact Center: LiveWorld Social; Genesys Chat & Email
 </div>
 
-<br />
-
 <div style="margin-left: 50px; margin-bottom: 50px;">
-<div style="font-weight: bold;">Sr Software Engineer I - Architect</div>
-<div style="color: grey;">
-    Jun 2017 - Nov 2021 • 4 yrs 6 mos<br />
-    On-site<br />
-</div>
+    <div style="font-weight: bold;">Sr Software Engineer I - Architect</div>
+    <div style="color: grey;">
+        Jun 2017 - Nov 2021 • 4 yrs 6 mos<br />
+        On-site<br />
+    </div>
 
 <br />
 Supervised by Sr Staff Engineer
@@ -135,9 +131,7 @@ Achievements<br />
 
 Products<br />
  • Contact Center: LiveWorld Social; Genesys Chat & Email
- </div>
-
-<br />
+</div>
 
 <img src="./img/RoyalCaribbean-logo-bg-blue.png" width="80px" style="float: left; margin-right: 15px" />
 
@@ -151,11 +145,11 @@ Products<br />
 <br />
 
 <div style="margin-left: 50px; margin-bottom: 50px;">
-<div style="font-weight: bold;">Sr Software Engineer</div>
-<div style="color: grey;">
-    Apr 2011 - Mar 2017 • 6 yrs<br />
-    On-site<br />
-</div>
+    <div style="font-weight: bold;">Sr Software Engineer</div>
+    <div style="color: grey;">
+        Apr 2011 - Mar 2017 • 6 yrs<br />
+        On-site<br />
+    </div>
 
 <br />
 
@@ -184,11 +178,11 @@ Achievements<br />
 <br />
 
 <div style="margin-left: 50px; margin-bottom: 50px;">
-<div style="font-weight: bold;">Software Engineer</div>
-<div style="color: grey;">
-    Jan 2008 - Apr 2011 • 3 yrs 4 mos<br />
-    On-site<br />
-</div>
+    <div style="font-weight: bold;">Software Engineer</div>
+    <div style="color: grey;">
+        Jan 2008 - Apr 2011 • 3 yrs 4 mos<br />
+        On-site<br />
+    </div>
 
 <br />
 
@@ -215,11 +209,11 @@ Achievements<br />
 <br />
 
 <div style="margin-left: 50px; margin-bottom: 50px;">
-<div style="font-weight: bold;">Systems Integration Consultant</div>
-<div style="color: grey;">
-    Apr 2006 - Jun 2007 • 1 yr 3 mos<br />
-    On-site<br />
-</div>
+    <div style="font-weight: bold;">Systems Integration Consultant</div>
+    <div style="color: grey;">
+        Apr 2006 - Jun 2007 • 1 yr 3 mos<br />
+        On-site<br />
+    </div>
 
 <br />
 
@@ -244,15 +238,14 @@ Achievements<br />
 <br />
 
 <div style="margin-left: 50px; margin-bottom: 50px;">
-<div style="font-weight: bold;">Systems Administrator</div>
-<div style="color: grey;">
-    Jun 2004 - Mar 2005 • 10 mos<br />
-    On-site<br />
-</div>
+    <div style="font-weight: bold;">Systems Administrator</div>
+    <div style="color: grey;">
+        Jun 2004 - Mar 2005 • 10 mos<br />
+        On-site<br />
+    </div>
 
 <br />
 
-<div>
 Achievements<br />
  • Analyzed Logidex - a software asset management system based on RAS specification (see OMG.org)<br />
  • Programmed extension to Logidex using WebSphere family products  (WSAD, WAS, MQ) and DB2<br />
@@ -260,7 +253,7 @@ Achievements<br />
  • Secured application w/ Java 2 Security declarative policy files, HTTP over SSL, & basic authentication<br />
  • Administered test-box WebSphere Application Server 5.x with AdminConsole / wsadmin scripts(JACL)<br />
  • Researched RUP and other modeling, process, and test oriented aspects of software lifecycle for project<br />
- </div>
+</div>
 
 ## Education
 
