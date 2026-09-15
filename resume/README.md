@@ -267,7 +267,7 @@ Achievements<br />
         Dropped Dec 1996<br />
         BA Art
     </div>
-    <div style="clear: both; margin-bottom: 30px;">
+    <div style="clear: both; margin-bottom: 30px;"></div>
 </div>
 
 <div>
@@ -280,7 +280,7 @@ Achievements<br />
         Graduated Aug 2001<br />
         BS Computer Science - Mathematical Science
     </div>
-    <div style="clear: both; margin-bottom: 30px;">
+    <div style="clear: both; margin-bottom: 30px;"></div>
 </div>
 
 
@@ -294,7 +294,7 @@ Achievements<br />
         Exchange<br />
         Japanese Language Program
     </div>
-    <div style="clear: both; margin-bottom: 30px;">
+    <div style="clear: both; margin-bottom: 30px;"></div>
 </div>
 
 
