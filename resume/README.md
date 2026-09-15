@@ -74,7 +74,8 @@ Portfolio<br />
     </div>
 
 <br />
-Unsupervised since Sr Staff Engineer retired late 2023
+Unsupervised since Sr Staff Engineer retired late 2023<br />
+<br />
 
 Contact Center Channels<br />
 ⠀⠀- Chat ............... 4 yrs web-based customer-to-agent chats using custom built solution, HTTP WebSocket<br />
@@ -110,7 +111,8 @@ Products<br />
     </div>
 
 <br />
-Supervised by Sr Staff Engineer
+Supervised by Sr Staff Engineer<br />
+<br />
 
 Contact Center Channels<br />
 ⠀⠀- Chat ............... 4 yrs web-based customer-to-agent chats using COTS & inhouse, HTTP WebSocket<br />
