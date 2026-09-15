@@ -2,7 +2,7 @@
   <div>
     <img src="./img/Amex-collage.png" width="1400px" />
   </div>
-  <div style="position: absolute; top: 210px; left: 50px;">
+  <div style="position: absolute; top: 210px; left: 50px; background: transparent !important;">
     <img src="./img/Headshot-Steven-Park_2018-circle-w-border-white.png" width="290" />
   </div>
 </div>
