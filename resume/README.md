@@ -264,9 +264,9 @@ Achievements
         <img src="./img/BrevardCollege-logo-w-text.png" width="80px" />
     </div>
     <div style="float: left; margin-left: 30px;">
-        Brevard College  
-        Sep 1996 - Dec 1996  
-        Dropped Dec 1996  
+        Brevard College<br />
+        Sep 1996 - Dec 1996<br />
+        Dropped Dec 1996<br />
         BA Art
     </div>
     <div style="clear: both; margin-bottom: 30px;"></div>
@@ -277,9 +277,9 @@ Achievements
         <img src="./img/UNC-ChapelHill-NC-logo-blue-navy.png" width="80px" /> 
     </div>
     <div style="float: left; margin-left: 30px;">
-        University of North Carolina at Chapel Hill  
-        May 1997 - Aug 2000  
-        Graduated Aug 2001  
+        University of North Carolina at Chapel Hill<br />
+        May 1997 - Aug 2000<br />
+        Graduated Aug 2001<br />
         BS Computer Science - Mathematical Science
     </div>
     <div style="clear: both; margin-bottom: 30px;"></div>
@@ -291,9 +291,9 @@ Achievements
         <img src="./img/KeioUniversity-PenMark-logo.png" width="80px" />
     </div>
     <div style="float: left; margin-left: 30px;">
-        Keio University  
-        Sep 2000 - Aug 2001  
-        Exchange  
+        Keio University<br />
+        Sep 2000 - Aug 2001<br />
+        Exchange<br />
         Japanese Language Program
     </div>
     <div style="clear: both; margin-bottom: 30px;"></div>
