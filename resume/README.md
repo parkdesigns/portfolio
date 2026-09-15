@@ -40,7 +40,7 @@ Website: TBD<br />
 
 <br />
 
-<div style="margin-left: 50px">
+<div style="margin-left: 50px; margin-bottom: 50px;">
 Certifications<br />
 ⠀⠀• ISC²: ⠀🚧 CISSP,⠀🚧 CCSP<br />
 ⠀⠀• AWS: ⠀⠀🚧 SAP, ⠀⠀🚧 DOP, ⠀⠀🚧 SCS<br />
@@ -51,8 +51,9 @@ Portfolio<br />
 ⠀⠀• GitHub - [parkdesigns.github.io](https://parkdesigns.github.io/)<br />
 ⠀⠀• Website - [parkdesigns.uk](https://parkdesigns.uk)
 
-<br />
 </div>
+
+<br />
 
 <img src="./img/Amex-bluebox-logo.png" width="80px" style="float: left; margin-right: 15px" />
 
@@ -65,7 +66,7 @@ Portfolio<br />
 
 <br />
 
-<div style="margin-left: 50px">
+<div style="margin-left: 50px; margin-bottom: 50px;">
 <div style="font-weight: bold;">Sr Software Engineer II - Architect</div>
 <div style="color: grey;">
     Nov 2021 - May 2026 • 4 yrs 7 mos<br />
@@ -101,10 +102,9 @@ Products<br />
  • Contact Center: LiveWorld Social; Genesys Chat & Email
 </div>
 
-
 <br />
 
-<div style="margin-left: 50px">
+<div style="margin-left: 50px; margin-bottom: 50px;">
 <div style="font-weight: bold;">Sr Software Engineer I - Architect</div>
 <div style="color: grey;">
     Jun 2017 - Nov 2021 • 4 yrs 6 mos<br />
@@ -137,6 +137,8 @@ Products<br />
  • Contact Center: LiveWorld Social; Genesys Chat & Email
  </div>
 
+<br />
+
 <img src="./img/RoyalCaribbean-logo-bg-blue.png" width="80px" style="float: left; margin-right: 15px" />
 
 ### Royal Caribbean International
@@ -148,7 +150,7 @@ Products<br />
 
 <br />
 
-<div style="margin-left: 50px">
+<div style="margin-left: 50px; margin-bottom: 50px;">
 <div style="font-weight: bold;">Sr Software Engineer</div>
 <div style="color: grey;">
     Apr 2011 - Mar 2017 • 6 yrs<br />
@@ -181,7 +183,7 @@ Achievements<br />
 
 <br />
 
-<div style="margin-left: 50px">
+<div style="margin-left: 50px; margin-bottom: 50px;">
 <div style="font-weight: bold;">Software Engineer</div>
 <div style="color: grey;">
     Jan 2008 - Apr 2011 • 3 yrs 4 mos<br />
@@ -212,7 +214,7 @@ Achievements<br />
 
 <br />
 
-<div style="margin-left: 50px;">
+<div style="margin-left: 50px; margin-bottom: 50px;">
 <div style="font-weight: bold;">Systems Integration Consultant</div>
 <div style="color: grey;">
     Apr 2006 - Jun 2007 • 1 yr 3 mos<br />
@@ -241,7 +243,7 @@ Achievements<br />
 
 <br />
 
-<div style="margin-left: 50px;">
+<div style="margin-left: 50px; margin-bottom: 50px;">
 <div style="font-weight: bold;">Systems Administrator</div>
 <div style="color: grey;">
     Jun 2004 - Mar 2005 • 10 mos<br />
@@ -250,6 +252,7 @@ Achievements<br />
 
 <br />
 
+<div>
 Achievements<br />
  • Analyzed Logidex - a software asset management system based on RAS specification (see OMG.org)<br />
  • Programmed extension to Logidex using WebSphere family products  (WSAD, WAS, MQ) and DB2<br />
