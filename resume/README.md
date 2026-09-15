@@ -126,7 +126,7 @@ Achievements<br />
  • Presented applications on a regular basis to major stakeholders at client to solicit feedback/approval<br />
  • Participated in full SDLC from inception (requirements) to transition (production, pilot, maintenance)<br />
 
- ### Systems Integration Consultant
+### Systems Integration Consultant
 
 Achievements<br />
  • Supported hosted web, app, database, and email servers in terms of configs and surrounding processes<br />
@@ -136,7 +136,7 @@ Achievements<br />
  • Performed load testing using Mercury Load Runner and improved the general practice of QA testing	<br />
  • Managed many SDLC/project aspects, examples - documentation, estimates, requirements elicitation<br />
 
- ### Systems Administrator
+### Systems Administrator
 
 Achievements<br />
  • Analyzed Logidex - a software asset management system based on RAS specification (see OMG.org)<br />
@@ -146,7 +146,7 @@ Achievements<br />
  • Administered test-box WebSphere Application Server 5.x with AdminConsole / wsadmin scripts(JACL)<br />
  • Researched RUP and other modeling, process, and test oriented aspects of software lifecycle for project<br />
 
- ## Education
+## Education
 
 <div>
     <div style="float: left;">
