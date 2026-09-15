@@ -29,8 +29,18 @@ Website: TBD<br />
 
 ## Experience
 
+<img src="./img/Calendar-LinkedIn.png" width="80px" style="float: left; margin-right: 15px" />
+
 ### Layoff/position eliminated
 
+<div style="margin-right: 65px">
+  Unemployed<br />
+  May 2026 - present
+</div>
+
+<br />
+
+<div style="margin-left: 50px">
 Certifications<br />
 ⠀⠀• ISC²: ⠀🚧 CISSP,⠀🚧 CCSP<br />
 ⠀⠀• AWS: ⠀⠀🚧 SAP, ⠀⠀🚧 DOP, ⠀⠀🚧 SCS<br />
@@ -38,13 +48,31 @@ Certifications<br />
 ⠀⠀• Cisco:⠀🚧 CCNA<br />
 
 Portfolio<br />
-⠀⠀• GitHub - parkdesigns.github.io
+⠀⠀• GitHub - [parkdesigns.github.io](https://parkdesigns.github.io/)<br />
+⠀⠀• Website - [parkdesigns.uk](https://parkdesigns.uk)
 
+<br />
+</div>
 
-### Sr Software Engineer II - Architect
+<img src="./img/Amex-bluebox-logo.png" width="80px" style="float: left; margin-right: 15px" />
 
-Architect role
+### American Express
 
+<div style="margin-right: 65px">
+  Full-time • 9 yrs<br />
+  Sunrise, FL, USA
+</div>
+
+<br />
+
+<div style="margin-left: 50px">
+<div style="font-weight: bold;">Sr Software Engineer II - Architect</div>
+<div style="color: grey;">
+    Nov 2021 - May 2026 • 4 yrs 7 mos<br />
+    Remote<br />
+</div>
+
+<br />
 Unsupervised since Sr Staff Engineer retired late 2023
 
 Contact Center Channels<br />
@@ -71,11 +99,19 @@ Achievements<br />
 
 Products<br />
  • Contact Center: LiveWorld Social; Genesys Chat & Email
+</div>
 
-### Sr Software Engineer I - Architect
 
-Architect role
+<br />
 
+<div style="margin-left: 50px">
+<div style="font-weight: bold;">Sr Software Engineer I - Architect</div>
+<div style="color: grey;">
+    Jun 2017 - Nov 2021 • 4 yrs 6 mos<br />
+    On-site<br />
+</div>
+
+<br />
 Supervised by Sr Staff Engineer
 
 Contact Center Channels<br />
@@ -99,8 +135,27 @@ Achievements<br />
 
 Products<br />
  • Contact Center: LiveWorld Social; Genesys Chat & Email
+ </div>
 
-### Senior Software Engineer
+<img src="./img/RoyalCaribbean-logo-bg-blue.png" width="80px" style="float: left; margin-right: 15px" />
+
+### Royal Caribbean International
+
+<div style="margin-right: 65px">
+  Full-time • 6 yrs<br />
+  Miramar, FL, United States
+</div>
+
+<br />
+
+<div style="margin-left: 50px">
+<div style="font-weight: bold;">Sr Software Engineer</div>
+<div style="color: grey;">
+    Apr 2011 - Mar 2017 • 6 yrs<br />
+    On-site<br />
+</div>
+
+<br />
 
 Roles<br />
 ⠀- Application Operations ...... 0.7 yrs - ops team supporting B2C/B2B websites, web services, etc<br />
@@ -113,8 +168,27 @@ Achievements<br />
  • Identified and analyzed mystifying issues involving IPS, AIX-VIOs, GFW, PConns, HTTP 504s, etc<br />
  • Recognized across all departments as a true expert, veteran, and 365/24/7 duty-phone holder<br />
  • Tooling used:  sed/awk/grep, Splunk, Dynatrace, Ganglia, WireShark, SoapUI/Postman, Firefox addons<br />
+ </div>
 
-### Software Engineer
+<img src="./img/CTG-logo.png" width="80px" style="float: left; margin-right: 15px" />
+
+### Computer Task Group
+
+<div style="margin-right: 65px">
+  Full-time • 3 yrs 4 mos<br />
+  Flowood, MS, USA
+</div>
+
+<br />
+
+<div style="margin-left: 50px">
+<div style="font-weight: bold;">Software Engineer</div>
+<div style="color: grey;">
+    Jan 2008 - Apr 2011 • 3 yrs 4 mos<br />
+    On-site<br />
+</div>
+
+<br />
 
 Achievements<br />
  • Designed and coded multiple high profile internal and external BCBSMS web applications over 3 years<br />
@@ -125,8 +199,27 @@ Achievements<br />
  • Utilized FireBug and Apache Web Server to develop HTML, CSS, JavaScript, and Dojo for web pages<br />
  • Presented applications on a regular basis to major stakeholders at client to solicit feedback/approval<br />
  • Participated in full SDLC from inception (requirements) to transition (production, pilot, maintenance)<br />
+ </div>
 
-### Systems Integration Consultant
+<img src="./img/FICO-logo-white-bg-blue.png" width="80px" style="float: left; margin-right: 15px" />
+
+### FICO
+
+<div style="margin-right: 65px">
+  Full-time • 1 yr 3 mos<br />
+  Chicago, IL, USA
+</div>
+
+<br />
+
+<div style="margin-left: 50px;">
+<div style="font-weight: bold;">Systems Integration Consultant</div>
+<div style="color: grey;">
+    Apr 2006 - Jun 2007 • 1 yr 3 mos<br />
+    On-site<br />
+</div>
+
+<br />
 
 Achievements<br />
  • Supported hosted web, app, database, and email servers in terms of configs and surrounding processes<br />
@@ -135,8 +228,27 @@ Achievements<br />
  • Assisted database migration from Oracle 8i to 9i, migration of cron jobs to Unisys, and user changes<br />
  • Performed load testing using Mercury Load Runner and improved the general practice of QA testing	<br />
  • Managed many SDLC/project aspects, examples - documentation, estimates, requirements elicitation<br />
+ </div>
 
-### Systems Administrator
+<img src="./img/IBM-logo-white-bg-blue.png" width="80px" style="float: left; margin-right: 15px" />
+
+### IBM Contract
+
+<div style="margin-right: 65px">
+  Full-time • 10 mos<br />
+  Raliegh-Durham-Chapel Hill Area, NC, USA
+</div>
+
+<br />
+
+<div style="margin-left: 50px;">
+<div style="font-weight: bold;">Systems Administrator</div>
+<div style="color: grey;">
+    Jun 2004 - Mar 2005 • 10 mos<br />
+    On-site<br />
+</div>
+
+<br />
 
 Achievements<br />
  • Analyzed Logidex - a software asset management system based on RAS specification (see OMG.org)<br />
@@ -145,12 +257,13 @@ Achievements<br />
  • Secured application w/ Java 2 Security declarative policy files, HTTP over SSL, & basic authentication<br />
  • Administered test-box WebSphere Application Server 5.x with AdminConsole / wsadmin scripts(JACL)<br />
  • Researched RUP and other modeling, process, and test oriented aspects of software lifecycle for project<br />
+ </div>
 
 ## Education
 
 <div>
     <div style="float: left;">
-        <img src="./img/BrevardCollege-logo-w-text.png" width="50px" />
+        <img src="./img/BrevardCollege-logo-w-text.png" width="80px" />
     </div>
     <div style="float: left; margin-left: 30px;">
         Brevard College<br />
@@ -163,7 +276,7 @@ Achievements<br />
 
 <div>
     <div style="float: left;">
-        <img src="./img/UNC-ChapelHill-NC-logo-blue-navy.png" width="50px" /> 
+        <img src="./img/UNC-ChapelHill-NC-logo-blue-navy.png" width="80px" /> 
     </div>
     <div style="float: left; margin-left: 30px;">
         University of North Carolina at Chapel Hill<br />
@@ -177,7 +290,7 @@ Achievements<br />
 
 <div>
     <div style="float: left;">
-        <img src="./img/KeioUniversity-PenMark-logo.png" width="50px" />
+        <img src="./img/KeioUniversity-PenMark-logo.png" width="80px" />
     </div>
     <div style="float: left; margin-left: 30px;">
         Keio University<br />
@@ -190,7 +303,6 @@ Achievements<br />
 
 
 ## Skills
-
 
 
 ## Certifications
