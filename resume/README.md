@@ -57,14 +57,14 @@ Achievements<br />
  • Created internal doc Libraries for Chat, Email, & Social containing 30,000+ file artifacts<br />
  • Researched & Designed metrics for Availability Dashboard & Scorecard for Chat<br />
  • Threat Modeling of Chat, Email, & Social systems (600+ countermeasures)<br />
- • Designed Architecture of Email (~$4M/yr savings)<br />
+ • Designed Architecture of Email ($4M/yr savings)<br />
  • Privacy Risk Assessment of Chat & Email (CA, DE, IT, JP, US, etc)<br />
  • Architecture as Design of Chat & Email<br />
  • Designed Authentication solution in travel.americanexpress.com 3rd Party website for Chat<br />
  • Designed Anonymous Authentication solution in americanexpress.com website for Chat<br />
  • Acted as Data Custodian for Chat & Email<br />
  • Designed Data Retention Lifecycle of Chat through Google BigQuery queries<br />
- • Decommissioned LivePerson Chat (~$2M/yr savings)<br />
+ • Decommissioned LivePerson Chat ($2M/yr savings)<br />
  • Mentored 10+ Colleagues over 4 year period (1 - 2 meetings/mo)<br />
  • Hosted over 200+ Architecture Review meetings; 20+ Design meetings<br />
  • Governed & Supported production operations: led multiple Incident RCA & Resolution emergency calls (20+)<br />
