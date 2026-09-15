@@ -8,12 +8,12 @@
 </div>
 
 # Steven Park
-**Staff Architect**<br />
+**Staff Architect**  
 Email: [parkdesigns@gmail.com](mailto:parkdesigns@gmail.com)  
 LinkedIn: [https://www.linkedin.com/in/steven-park-6611856](https://www.linkedin.com/in/steven-park-6611856)  
-GitHub: [https://parkdesigns.github.io/](https://parkdesigns.github.io/)
-X: [https://x.com/StevenPark76086](https://x.com/StevenPark76086)
-Website: TBD
+GitHub: [https://parkdesigns.github.io/](https://parkdesigns.github.io/)  
+X: [https://x.com/StevenPark76086](https://x.com/StevenPark76086)  
+Website: TBD  
 <br />
 
 ## Activity
