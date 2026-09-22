@@ -68,10 +68,12 @@ Portfolio of experience and knowledge
 
 ## Products
 
+* [Browser](./products/browser/README.md)
+   * [Cookie Catalog](./products/browser/cookie-catalog.md)
 * DNS
    * 🚧 BIND
 * Edge / CDN
-   * 🚧 [Akamai](https://parkdesigns.atlassian.net/wiki/spaces/~ParkDesigns/pages/2228225/Akamai)
+   * 🚧 Akamai
 * WAF
    * 🚧 Akamai WAF (Kona)
    * 🚧 F5 WAF
@@ -186,3 +188,9 @@ Portfolio of experience and knowledge
     * [i18n - Internationalization (button)](./activity/posts/2026-09-04-i18n-button.md)
     * [i18n - Internationalization (images)](./activity/posts/2026-09-04-i18n-images.md)
     * [Title Blocks](./activity/posts/2026-09-04-title-blocks.md)
+  * 2026-09-22
+    * [Non-HttpOnly Auth Token Cookie Exploit](./activity/posts/2026-09-22-non-httponly-cookie-exploit.md)
+
+## About
+
+* [Resume / Curriculum Vitae](./resume/README.md)
