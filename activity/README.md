@@ -24,6 +24,8 @@
   * [i18n - Internationalization (button)](./posts/2026-09-04-i18n-button.md)
   * [i18n - Internationalization (images)](./posts/2026-09-04-i18n-images.md)
   * [Title Blocks](./posts/2026-09-04-title-blocks.md)
+* 2026-09-22
+  * [Non-HttpOnly Auth Token Cookie Exploit](./posts/2026-09-22-non-httponly-cookie-exploit.md)
 
 ## Books
 

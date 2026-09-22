@@ -9,6 +9,8 @@
   * [i18n - Internationalization (button)](./2026-09-04-i18n-button.md)
   * [i18n - Internationalization (images)](./2026-09-04-i18n-images.md)
   * [Title Blocks](./2026-09-04-title-blocks.md)
+* 2026-09-22
+  * [Non-HttpOnly Auth Token Cookie Exploit](./2026-09-22-non-httponly-cookie-exploit.md)
 
 ## Channels
 
