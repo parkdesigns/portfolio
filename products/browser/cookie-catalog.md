@@ -1,4 +1,4 @@
-# Cookies Catalog
+# Cookie Catalog
 
 also see [Cookiepedia](https://cookiepedia.co.uk/)
 
@@ -6,7 +6,7 @@ also see [Cookiepedia](https://cookiepedia.co.uk/)
 
 ## User Consent
 
->>`CookieConsent` (or other) is a user consent choices cookie set by website.
+>`CookieConsent` (or other) is a user consent choices cookie set by website.
 
 <img src="./img/Cookie-CookieConsent-Chrome-DevTools-Application-Cookies_cropped_blurred_2026-09-22.png" width="1400px" />
 
