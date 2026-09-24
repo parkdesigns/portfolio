@@ -190,6 +190,8 @@ Portfolio of experience and knowledge
     * [Title Blocks](./activity/posts/2026-09-04-title-blocks.md)
   * 2026-09-22
     * [Non-HttpOnly Auth Token Cookie Exploit](./activity/posts/2026-09-22-non-httponly-cookie-exploit.md)
+  * 2026-09-24
+    * [Identity Cookie Disjoint from Auth Token Exploit](./activity/posts/2026-09-24-cookie-disjoint-auth-exploit.md)
 
 ## About
 

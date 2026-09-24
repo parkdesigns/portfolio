@@ -11,6 +11,8 @@
   * [Title Blocks](./2026-09-04-title-blocks.md)
 * 2026-09-22
   * [Non-HttpOnly Auth Token Cookie Exploit](./2026-09-22-non-httponly-cookie-exploit.md)
+* 2026-09-24
+  * [Identity Cookie Disjoint from Auth Token Exploit](./2026-09-24-cookie-disjoint-auth-exploit.md)
 
 ## Channels
 
