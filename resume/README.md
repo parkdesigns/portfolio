@@ -139,7 +139,7 @@ Products<br />
 
 <img src="./img/RoyalCaribbean-logo-bg-blue.png" width="80px" style="float: left; margin-right: 15px" />
 
-### Royal Caribbean International
+### Royal Caribbean Group
 
 <div style="margin-right: 65px">
   Full-time • 6 yrs<br />
@@ -304,6 +304,77 @@ Achievements<br />
 
 ## Skills
 
+Design
+* Architecture Design
+* System Design
+* Wireframing
+* UI/UX
+
+Software Development
+* Systems Analysis
+* Solution Delivery
+* Browsers
+* APIs
+* Code Review
+* Technology Roadmaps
+* Accessible Design
+
+Languages
+* Java
+* JavaScript
+* HTML
+* CSS
+* SQL
+* XML & XSLT
+
+Tools
+* Terminal, curl, openssl, sed, awk, nslookup
+* Vim, Eclipse, VS Code
+* Preview, SnagIt, Inkscape
+* Draw.io
+* Confluence, GitHub Pages, OneNote, SharePoint
+* Service-Now, Sail Point
+* M365, Google Workspace
+
+Management
+* Account Management
+* Configuration Management
+* Incident Management
+* Knowledge Management
+* Vendor Management
+* Governance, Risk Management, and Compliance (GRC)
+
+Operations
+* Incident Response
+* Log Analysis
+* Metrics
+* Business Continuity & Disaster Recover
+
+Communications
+* Writing Documentation
+* Technical Writing Skills
+* Mentoring
+
+Services
+* Authentication Systems
+* Microservices
+* Websocket
+* Web Servers
+
+Regulations
+* HIPAA
+* PII
+* PCI-DSS
+* GDPR
 
 ## Certifications
 
+* ISC²:⠀⠀🚧 CISSP,⠀🚧 CCSP
+* AWS:⠀⠀🚧 SAP, ⠀⠀🚧 DOP, ⠀⠀🚧 SCS
+* GCP:⠀⠀🚧 PCA, ⠀⠀🚧 PCDOE,⠀🚧 PCSE
+* Cisco:⠀🚧 CCNA
+
+## Job Applications
+
+* [Job Application Template](./job-application-template.md)
+* [Job Applications 2026](./job-applications-2026.md)
