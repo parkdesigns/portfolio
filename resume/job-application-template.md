@@ -2,8 +2,8 @@
 
 ## Resumes / CVs
 
-* Staff Architect - Contact Center - 
-* 
+* Staff Architect - Contact Center
+* Staff Architect - Enterprise
 
 ## Cover Letters
 
@@ -35,6 +35,20 @@ __Senior Software Engineer I__<br />
 On-site<br />
 Jun 2017 - Nov 2021 4 yrs 6 mos
 
+Responsibilities
+* Built documentation for Chat (5,000+ pages) & CoBrowse (100+ pages) from nothing
+* Designed ETL of LivePerson Chat data to Amex for data retention needs
+* Designed Tagging solution in americanexpress.com website for Chat
+* Led Pilot solution of out-of-the-box Genesys WebChat
+* Designed Authentication integration in Chat leveraging americanexpress.com website Auth
+* Designed Privacy solution in Chat
+* Designed Integration of web-based Chat with mobile-app Chat core
+* Created & Executed DR Plan for Chat & Routing backend
+* Maintained & Improved DR Plan(s) for Chat
+* Performed 1st pilot Privacy by Design (aka Privacy Risk Assessment) for Chat
+* Hosted over 100+ Architecture Review meetings; 30+ Design meetings
+* Governed production operations: led multiple Incident RCA & Resolution emergency calls (60+)
+
 ### Royal Caribbean Group (RCCL)
 
 * Start: April 2011
@@ -43,6 +57,17 @@ Jun 2017 - Nov 2021 4 yrs 6 mos
 RCCL Miramar Office<br />
 14700 Caribbean Way<br />
 Miramar, FL, 33027
+
+Responsibilities
+*  Application Operations team supporting B2C/B2B websites, web services, etc
+*  Enterprise Services Layer web services Production Support Lead
+*  CelebrityCruises.com website Production Support Lead
+*  RoyalCaribbean.com 6 websites Production Support Lead
+*  Took responsibility for every layer:  CDN, FW, IPS, LB, DataPower, web/app srv, HTTP/TCP/IP, Unix
+*  Identified and analyzed mystifying issues involving IPS, AIX-VIOs, GFW, PConns, HTTP 504s, etc
+*  Recognized across all departments as a true expert, veteran, and 365/24/7 duty-phone holder	
+*  Tooling used: sed/awk/grep, Splunk, Dynatrace, Ganglia, WireShark, SoapUI/Postman, Firefox addons
+
 
 ### Blue Cross & Blue Shield of Mississippi (BCBSMS)
 _contracted through Computer Task Group_
@@ -57,11 +82,17 @@ Flowood, MS 39232
 __Software Engineer__<br />
 On-site
 
+Responsibilities
+*  Designed and coded multiple high profile internal and external BCBSMS web applications over 3 years
+*  Provided solid ownership of tasks and lead other developers in achieving goals in a flexible manner
+*  Gathered and documented software requirements, implemented complex business rules into J2EE apps
+*  Performed Object Oriented Analysis & Design to generate Business Domain Model and architecture
+*  Used Struts 1.1/2.0, Spring, JUnit, iBATIS, DbUnit, WebSphere 6.1, RAD, CVS/Subversion, & Maven
+*  Utilized FireBug and Apache Web Server to develop HTML, CSS, JavaScript, and Dojo for web pages
+*  Presented applications on a regular basis to major stakeholders at client to solicit feedback/approval
+*  Participated in full SDLC from inception (requirements) to transition (production, pilot, maintenance)
 
 ### Fair Isaac (FICO)
-
-__Systems Integration Consultant__<br />
-On-site
 
 * Start: April 2006
 * End: June 2007
@@ -70,6 +101,18 @@ FICO Regional Office<br />
 20 W Kinzie St<br />
 Suite 1600<br />
 Chicago, IL 60654
+
+__Systems Integration Consultant__<br />
+On-site
+
+Responsibilities
+*  Supported hosted web, app, database, and email servers in terms of configs and surrounding processes
+*  Maintained J2EE web-container based Struts application for client in creating and updating features
+*  Migrated application from WebLogic 6.1 to Tomcat 5.5.17 and from Apache 1.3.22 to Apache 2.0.55
+*  Assisted database migration from Oracle 8i to 9i, migration of cron jobs to Unisys, and user changes
+*  Performed load testing using Mercury Load Runner and improved the general practice of QA testing
+*  Managed many SDLC/project aspects, examples - documentation, estimates, requirements elicitation
+
 
 ### IBM Software Group
 _contracted through Sykes Enterprises_
@@ -82,8 +125,13 @@ IBM Main Campus<br />
 Research Triangle Park, NC 27709
 
 Responsibilities<br />
->>contracted through Sykes Enterprises<br />
->>Analyzed Logidex - a software asset management system based on RAS specification (see OMG.org)
+*  contracted through Sykes Enterprises
+*  Analyzed Logidex - a software asset management system based on RAS specification (see OMG.org)	
+*  Programmed extension to Logidex using WebSphere family products  (WSAD, WAS, MQ) and DB2	
+*  Used technologies and APIs:  EJB, EJB-QL, SOAP, WSDL, JMS, SQL, log4j, Ant, JUnit, and Cactus	
+*  Secured application w/ Java 2 Security declarative policy files, HTTP over SSL, & basic authentication	
+*  Administered test-box WebSphere Application Server 5.x with AdminConsole / wsadmin scripts(JACL)	
+*  Researched RUP and other modeling, process, and test oriented aspects of software lifecycle for project
 
 __Systems Administrator__<br />
 On-site
