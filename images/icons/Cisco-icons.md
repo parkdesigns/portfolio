@@ -30,6 +30,11 @@ ls *.png | sed -E 's|(.*).png|    <div>\n        <img alt="\1" src="./img/Cisco/
 ```
 
 <style>
+  div.icon-table {
+    width: 100%;
+    overflow: auto;
+  }
+
   .icon-table > div {
     float: left;
     width:210px;

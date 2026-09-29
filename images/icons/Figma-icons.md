@@ -24,22 +24,30 @@ ls *.png | sed -E 's|(.*).png|    <div>\n        <img alt="\1" src="./img/Figma/
 ## Icons
 
 <style>
+  div.icon-table {
+    width: 100%;
+    overflow: auto;
+  }
+  
   .icon-table > div {
     float: left;
     width:180px;
     margin-right: 10px;
+    margin-bottom: 10px;
   }
 
-  #icon-table div img {
+  .icon-table div img {
     float: left;
-    height: 50px;
+    max-width: 50px;
+    margin-right: 8px;
+    max-height: 40px;
   }
 
-  #icon-table > div > div {
+  .icon-table > div > div {
     float: left;
   }
 
-  #icon-table div.img-title  {
+  .icon-table div.img-title  {
     font-size: 10px;
   }
 </style>

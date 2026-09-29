@@ -22,6 +22,11 @@ ls *.png | sed -E 's|(.*).png|    <div>\n        <img alt="\1" src="./img/Google
 ## Icons
 
 <style>
+  div.icon-table {
+    width: 100%;
+    overflow: auto;
+  }
+  
   .icon-table > div {
     float: left;
     width:180px;
