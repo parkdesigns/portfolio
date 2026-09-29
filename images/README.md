@@ -10,3 +10,4 @@
 * [Cisco icons](./icons/Cisco-icons.md)
 * [Figma icons](./icons/Figma-icons.md)
 * [Google icons](./icons/Google-icons.md)
+* [RedHat icons](./icons/RedHat-icons.md)
