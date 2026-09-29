@@ -11,6 +11,14 @@ Using icons in diagrams and documentation can improve:
 Definition
 
 
+## Icons
+
+* [American Express icons](./Amex-icons.md)
+* [Cisco icons](./Cisco-icons.md)
+* [Figma icons](./Figma-icons.md)
+* [Google icons](./Google-icons.md)
+* [RedHat icons](./RedHat-icons.md)
+
 ## Readability
 
 Variance in visuals breaks monotony (blurring of everything into sameness) and improves readability.

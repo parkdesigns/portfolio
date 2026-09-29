@@ -1,0 +1,1709 @@
+# RedHat Icons
+
+https://ux.redhat.com/foundations/iconography/
+
+```
+curl https://ux.redhat.com/foundations/iconography/ -o input.html
+```
+
+```
+sed -E 's/(<svg xmlns=[^>]*>)/\n\1/g; s/(<\/svg>)/\1\n/g; s/<button aria-label="Copy icon HTML for standard ([^"]*)/\niconname: \1\n/g;' input.html |
+awk '/<svg xmlns=[^>]*>/ {c++; flag=1} flag {print > ("svg_" c ".svg")} /<\/svg>/ {flag=0} /iconname/ { system("mv \"" "svg_" c ".svg\" \"" $2 ".svg\"")}'
+```
+
+```
+for file in *.svg; do
+  sips -s format png "$file" -o "${file%.svg}.png" -Z 130
+done
+```
+
+```
+ls *.png | sed -E 's|(.*).png|    <div>\n        <img alt="\1" src="./img/RedHat/&" />\n        <div>\n            <a href="./img/RedHat/\1.svg">SVG</a>\n            <div class="img-title">\1</div>\n        </div>\n    </div>|' > html-of-images.txt
+```
+
+## Icons
+
+
+<style>
+  div.icon-table {
+    width: 100%;
+    overflow: auto;
+  }
+  
+  .icon-table > div {
+    float: left;
+    width:180px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+
+  .icon-table div img {
+    float: left;
+    max-width: 50px;
+    margin-right: 8px;
+    max-height: 40px;
+  }
+
+  .icon-table > div > div {
+    float: left;
+  }
+
+  .icon-table div.img-title  {
+    font-size: 10px;
+  }
+</style>
+
+<div class="icon-table">
+    <div>
+        <img alt="5g" src="./img/RedHat/5g.png" />
+        <div>
+            <a href="./img/RedHat/5g.svg">SVG</a>
+            <div class="img-title">5g</div>
+        </div>
+    </div>
+    <div>
+        <img alt="acorn" src="./img/RedHat/acorn.png" />
+        <div>
+            <a href="./img/RedHat/acorn.svg">SVG</a>
+            <div class="img-title">acorn</div>
+        </div>
+    </div>
+    <div>
+        <img alt="agentic" src="./img/RedHat/agentic.png" />
+        <div>
+            <a href="./img/RedHat/agentic.svg">SVG</a>
+            <div class="img-title">agentic</div>
+        </div>
+    </div>
+    <div>
+        <img alt="agile-integration" src="./img/RedHat/agile-integration.png" />
+        <div>
+            <a href="./img/RedHat/agile-integration.svg">SVG</a>
+            <div class="img-title">agile-integration</div>
+        </div>
+    </div>
+    <div>
+        <img alt="agile" src="./img/RedHat/agile.png" />
+        <div>
+            <a href="./img/RedHat/agile.svg">SVG</a>
+            <div class="img-title">agile</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ai-chatbot-annoyed" src="./img/RedHat/ai-chatbot-annoyed.png" />
+        <div>
+            <a href="./img/RedHat/ai-chatbot-annoyed.svg">SVG</a>
+            <div class="img-title">ai-chatbot-annoyed</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ai-chatbot-bewildered" src="./img/RedHat/ai-chatbot-bewildered.png" />
+        <div>
+            <a href="./img/RedHat/ai-chatbot-bewildered.svg">SVG</a>
+            <div class="img-title">ai-chatbot-bewildered</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ai-chatbot-happy" src="./img/RedHat/ai-chatbot-happy.png" />
+        <div>
+            <a href="./img/RedHat/ai-chatbot-happy.svg">SVG</a>
+            <div class="img-title">ai-chatbot-happy</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ai-chatbot-sad" src="./img/RedHat/ai-chatbot-sad.png" />
+        <div>
+            <a href="./img/RedHat/ai-chatbot-sad.svg">SVG</a>
+            <div class="img-title">ai-chatbot-sad</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ai-experience" src="./img/RedHat/ai-experience.png" />
+        <div>
+            <a href="./img/RedHat/ai-experience.svg">SVG</a>
+            <div class="img-title">ai-experience</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ai-inference" src="./img/RedHat/ai-inference.png" />
+        <div>
+            <a href="./img/RedHat/ai-inference.svg">SVG</a>
+            <div class="img-title">ai-inference</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ai-ml" src="./img/RedHat/ai-ml.png" />
+        <div>
+            <a href="./img/RedHat/ai-ml.svg">SVG</a>
+            <div class="img-title">ai-ml</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ai-model-registered" src="./img/RedHat/ai-model-registered.png" />
+        <div>
+            <a href="./img/RedHat/ai-model-registered.svg">SVG</a>
+            <div class="img-title">ai-model-registered</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ai-model-validated" src="./img/RedHat/ai-model-validated.png" />
+        <div>
+            <a href="./img/RedHat/ai-model-validated.svg">SVG</a>
+            <div class="img-title">ai-model-validated</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ai-model" src="./img/RedHat/ai-model.png" />
+        <div>
+            <a href="./img/RedHat/ai-model.svg">SVG</a>
+            <div class="img-title">ai-model</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ai-sovereignty" src="./img/RedHat/ai-sovereignty.png" />
+        <div>
+            <a href="./img/RedHat/ai-sovereignty.svg">SVG</a>
+            <div class="img-title">ai-sovereignty</div>
+        </div>
+    </div>
+    <div>
+        <img alt="air-filter" src="./img/RedHat/air-filter.png" />
+        <div>
+            <a href="./img/RedHat/air-filter.svg">SVG</a>
+            <div class="img-title">air-filter</div>
+        </div>
+    </div>
+    <div>
+        <img alt="air-pillow-packaging" src="./img/RedHat/air-pillow-packaging.png" />
+        <div>
+            <a href="./img/RedHat/air-pillow-packaging.svg">SVG</a>
+            <div class="img-title">air-pillow-packaging</div>
+        </div>
+    </div>
+    <div>
+        <img alt="aircraft-carrier" src="./img/RedHat/aircraft-carrier.png" />
+        <div>
+            <a href="./img/RedHat/aircraft-carrier.svg">SVG</a>
+            <div class="img-title">aircraft-carrier</div>
+        </div>
+    </div>
+    <div>
+        <img alt="airplane" src="./img/RedHat/airplane.png" />
+        <div>
+            <a href="./img/RedHat/airplane.svg">SVG</a>
+            <div class="img-title">airplane</div>
+        </div>
+    </div>
+    <div>
+        <img alt="alert" src="./img/RedHat/alert.png" />
+        <div>
+            <a href="./img/RedHat/alert.svg">SVG</a>
+            <div class="img-title">alert</div>
+        </div>
+    </div>
+    <div>
+        <img alt="aluminum-foil-and-plastic-wrap" src="./img/RedHat/aluminum-foil-and-plastic-wrap.png" />
+        <div>
+            <a href="./img/RedHat/aluminum-foil-and-plastic-wrap.svg">SVG</a>
+            <div class="img-title">aluminum-foil-and-plastic-wrap</div>
+        </div>
+    </div>
+    <div>
+        <img alt="amp" src="./img/RedHat/amp.png" />
+        <div>
+            <a href="./img/RedHat/amp.svg">SVG</a>
+            <div class="img-title">amp</div>
+        </div>
+    </div>
+    <div>
+        <img alt="analysis" src="./img/RedHat/analysis.png" />
+        <div>
+            <a href="./img/RedHat/analysis.svg">SVG</a>
+            <div class="img-title">analysis</div>
+        </div>
+    </div>
+    <div>
+        <img alt="anchor" src="./img/RedHat/anchor.png" />
+        <div>
+            <a href="./img/RedHat/anchor.svg">SVG</a>
+            <div class="img-title">anchor</div>
+        </div>
+    </div>
+    <div>
+        <img alt="api" src="./img/RedHat/api.png" />
+        <div>
+            <a href="./img/RedHat/api.svg">SVG</a>
+            <div class="img-title">api</div>
+        </div>
+    </div>
+    <div>
+        <img alt="app-mobile" src="./img/RedHat/app-mobile.png" />
+        <div>
+            <a href="./img/RedHat/app-mobile.svg">SVG</a>
+            <div class="img-title">app-mobile</div>
+        </div>
+    </div>
+    <div>
+        <img alt="app-on-server" src="./img/RedHat/app-on-server.png" />
+        <div>
+            <a href="./img/RedHat/app-on-server.svg">SVG</a>
+            <div class="img-title">app-on-server</div>
+        </div>
+    </div>
+    <div>
+        <img alt="app-secured" src="./img/RedHat/app-secured.png" />
+        <div>
+            <a href="./img/RedHat/app-secured.svg">SVG</a>
+            <div class="img-title">app-secured</div>
+        </div>
+    </div>
+    <div>
+        <img alt="app-unsecured" src="./img/RedHat/app-unsecured.png" />
+        <div>
+            <a href="./img/RedHat/app-unsecured.svg">SVG</a>
+            <div class="img-title">app-unsecured</div>
+        </div>
+    </div>
+    <div>
+        <img alt="app-update" src="./img/RedHat/app-update.png" />
+        <div>
+            <a href="./img/RedHat/app-update.svg">SVG</a>
+            <div class="img-title">app-update</div>
+        </div>
+    </div>
+    <div>
+        <img alt="app" src="./img/RedHat/app.png" />
+        <div>
+            <a href="./img/RedHat/app.svg">SVG</a>
+            <div class="img-title">app</div>
+        </div>
+    </div>
+    <div>
+        <img alt="apple-core" src="./img/RedHat/apple-core.png" />
+        <div>
+            <a href="./img/RedHat/apple-core.svg">SVG</a>
+            <div class="img-title">apple-core</div>
+        </div>
+    </div>
+    <div>
+        <img alt="apps-multiple-secured" src="./img/RedHat/apps-multiple-secured.png" />
+        <div>
+            <a href="./img/RedHat/apps-multiple-secured.svg">SVG</a>
+            <div class="img-title">apps-multiple-secured</div>
+        </div>
+    </div>
+    <div>
+        <img alt="apps-multiple-unsecured" src="./img/RedHat/apps-multiple-unsecured.png" />
+        <div>
+            <a href="./img/RedHat/apps-multiple-unsecured.svg">SVG</a>
+            <div class="img-title">apps-multiple-unsecured</div>
+        </div>
+    </div>
+    <div>
+        <img alt="apps-multiple" src="./img/RedHat/apps-multiple.png" />
+        <div>
+            <a href="./img/RedHat/apps-multiple.svg">SVG</a>
+            <div class="img-title">apps-multiple</div>
+        </div>
+    </div>
+    <div>
+        <img alt="architect" src="./img/RedHat/architect.png" />
+        <div>
+            <a href="./img/RedHat/architect.svg">SVG</a>
+            <div class="img-title">architect</div>
+        </div>
+    </div>
+    <div>
+        <img alt="architecture" src="./img/RedHat/architecture.png" />
+        <div>
+            <a href="./img/RedHat/architecture.svg">SVG</a>
+            <div class="img-title">architecture</div>
+        </div>
+    </div>
+    <div>
+        <img alt="arrow-directional" src="./img/RedHat/arrow-directional.png" />
+        <div>
+            <a href="./img/RedHat/arrow-directional.svg">SVG</a>
+            <div class="img-title">arrow-directional</div>
+        </div>
+    </div>
+    <div>
+        <img alt="assigned-desk" src="./img/RedHat/assigned-desk.png" />
+        <div>
+            <a href="./img/RedHat/assigned-desk.svg">SVG</a>
+            <div class="img-title">assigned-desk</div>
+        </div>
+    </div>
+    <div>
+        <img alt="assurance-sovereignty" src="./img/RedHat/assurance-sovereignty.png" />
+        <div>
+            <a href="./img/RedHat/assurance-sovereignty.svg">SVG</a>
+            <div class="img-title">assurance-sovereignty</div>
+        </div>
+    </div>
+    <div>
+        <img alt="atm" src="./img/RedHat/atm.png" />
+        <div>
+            <a href="./img/RedHat/atm.svg">SVG</a>
+            <div class="img-title">atm</div>
+        </div>
+    </div>
+    <div>
+        <img alt="atom" src="./img/RedHat/atom.png" />
+        <div>
+            <a href="./img/RedHat/atom.svg">SVG</a>
+            <div class="img-title">atom</div>
+        </div>
+    </div>
+    <div>
+        <img alt="automation" src="./img/RedHat/automation.png" />
+        <div>
+            <a href="./img/RedHat/automation.svg">SVG</a>
+            <div class="img-title">automation</div>
+        </div>
+    </div>
+    <div>
+        <img alt="award-ribbon" src="./img/RedHat/award-ribbon.png" />
+        <div>
+            <a href="./img/RedHat/award-ribbon.svg">SVG</a>
+            <div class="img-title">award-ribbon</div>
+        </div>
+    </div>
+    <div>
+        <img alt="baby-bottle" src="./img/RedHat/baby-bottle.png" />
+        <div>
+            <a href="./img/RedHat/baby-bottle.svg">SVG</a>
+            <div class="img-title">baby-bottle</div>
+        </div>
+    </div>
+    <div>
+        <img alt="backlog" src="./img/RedHat/backlog.png" />
+        <div>
+            <a href="./img/RedHat/backlog.svg">SVG</a>
+            <div class="img-title">backlog</div>
+        </div>
+    </div>
+    <div>
+        <img alt="backup-recovery" src="./img/RedHat/backup-recovery.png" />
+        <div>
+            <a href="./img/RedHat/backup-recovery.svg">SVG</a>
+            <div class="img-title">backup-recovery</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bandage" src="./img/RedHat/bandage.png" />
+        <div>
+            <a href="./img/RedHat/bandage.svg">SVG</a>
+            <div class="img-title">bandage</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bank-safe" src="./img/RedHat/bank-safe.png" />
+        <div>
+            <a href="./img/RedHat/bank-safe.svg">SVG</a>
+            <div class="img-title">bank-safe</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bar-graph" src="./img/RedHat/bar-graph.png" />
+        <div>
+            <a href="./img/RedHat/bar-graph.svg">SVG</a>
+            <div class="img-title">bar-graph</div>
+        </div>
+    </div>
+    <div>
+        <img alt="barn" src="./img/RedHat/barn.png" />
+        <div>
+            <a href="./img/RedHat/barn.svg">SVG</a>
+            <div class="img-title">barn</div>
+        </div>
+    </div>
+    <div>
+        <img alt="basketball" src="./img/RedHat/basketball.png" />
+        <div>
+            <a href="./img/RedHat/basketball.svg">SVG</a>
+            <div class="img-title">basketball</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bat" src="./img/RedHat/bat.png" />
+        <div>
+            <a href="./img/RedHat/bat.svg">SVG</a>
+            <div class="img-title">bat</div>
+        </div>
+    </div>
+    <div>
+        <img alt="battery" src="./img/RedHat/battery.png" />
+        <div>
+            <a href="./img/RedHat/battery.svg">SVG</a>
+            <div class="img-title">battery</div>
+        </div>
+    </div>
+    <div>
+        <img alt="beaker" src="./img/RedHat/beaker.png" />
+        <div>
+            <a href="./img/RedHat/beaker.svg">SVG</a>
+            <div class="img-title">beaker</div>
+        </div>
+    </div>
+    <div>
+        <img alt="beehive" src="./img/RedHat/beehive.png" />
+        <div>
+            <a href="./img/RedHat/beehive.svg">SVG</a>
+            <div class="img-title">beehive</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bicycle" src="./img/RedHat/bicycle.png" />
+        <div>
+            <a href="./img/RedHat/bicycle.svg">SVG</a>
+            <div class="img-title">bicycle</div>
+        </div>
+    </div>
+    <div>
+        <img alt="binoculars" src="./img/RedHat/binoculars.png" />
+        <div>
+            <a href="./img/RedHat/binoculars.svg">SVG</a>
+            <div class="img-title">binoculars</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bird" src="./img/RedHat/bird.png" />
+        <div>
+            <a href="./img/RedHat/bird.svg">SVG</a>
+            <div class="img-title">bird</div>
+        </div>
+    </div>
+    <div>
+        <img alt="blank-space" src="./img/RedHat/blank-space.png" />
+        <div>
+            <a href="./img/RedHat/blank-space.svg">SVG</a>
+            <div class="img-title">blank-space</div>
+        </div>
+    </div>
+    <div>
+        <img alt="blog" src="./img/RedHat/blog.png" />
+        <div>
+            <a href="./img/RedHat/blog.svg">SVG</a>
+            <div class="img-title">blog</div>
+        </div>
+    </div>
+    <div>
+        <img alt="blood-drive" src="./img/RedHat/blood-drive.png" />
+        <div>
+            <a href="./img/RedHat/blood-drive.svg">SVG</a>
+            <div class="img-title">blood-drive</div>
+        </div>
+    </div>
+    <div>
+        <img alt="blueprints" src="./img/RedHat/blueprints.png" />
+        <div>
+            <a href="./img/RedHat/blueprints.svg">SVG</a>
+            <div class="img-title">blueprints</div>
+        </div>
+    </div>
+    <div>
+        <img alt="boba-tea" src="./img/RedHat/boba-tea.png" />
+        <div>
+            <a href="./img/RedHat/boba-tea.svg">SVG</a>
+            <div class="img-title">boba-tea</div>
+        </div>
+    </div>
+    <div>
+        <img alt="book" src="./img/RedHat/book.png" />
+        <div>
+            <a href="./img/RedHat/book.svg">SVG</a>
+            <div class="img-title">book</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bookmark" src="./img/RedHat/bookmark.png" />
+        <div>
+            <a href="./img/RedHat/bookmark.svg">SVG</a>
+            <div class="img-title">bookmark</div>
+        </div>
+    </div>
+    <div>
+        <img alt="books-multiple" src="./img/RedHat/books-multiple.png" />
+        <div>
+            <a href="./img/RedHat/books-multiple.svg">SVG</a>
+            <div class="img-title">books-multiple</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bottle-plastic" src="./img/RedHat/bottle-plastic.png" />
+        <div>
+            <a href="./img/RedHat/bottle-plastic.svg">SVG</a>
+            <div class="img-title">bottle-plastic</div>
+        </div>
+    </div>
+    <div>
+        <img alt="box" src="./img/RedHat/box.png" />
+        <div>
+            <a href="./img/RedHat/box.svg">SVG</a>
+            <div class="img-title">box</div>
+        </div>
+    </div>
+    <div>
+        <img alt="boxing-glove" src="./img/RedHat/boxing-glove.png" />
+        <div>
+            <a href="./img/RedHat/boxing-glove.svg">SVG</a>
+            <div class="img-title">boxing-glove</div>
+        </div>
+    </div>
+    <div>
+        <img alt="brain" src="./img/RedHat/brain.png" />
+        <div>
+            <a href="./img/RedHat/brain.svg">SVG</a>
+            <div class="img-title">brain</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bridge" src="./img/RedHat/bridge.png" />
+        <div>
+            <a href="./img/RedHat/bridge.svg">SVG</a>
+            <div class="img-title">bridge</div>
+        </div>
+    </div>
+    <div>
+        <img alt="british-pound-decreasing" src="./img/RedHat/british-pound-decreasing.png" />
+        <div>
+            <a href="./img/RedHat/british-pound-decreasing.svg">SVG</a>
+            <div class="img-title">british-pound-decreasing</div>
+        </div>
+    </div>
+    <div>
+        <img alt="british-pound-increasing" src="./img/RedHat/british-pound-increasing.png" />
+        <div>
+            <a href="./img/RedHat/british-pound-increasing.svg">SVG</a>
+            <div class="img-title">british-pound-increasing</div>
+        </div>
+    </div>
+    <div>
+        <img alt="british-pound" src="./img/RedHat/british-pound.png" />
+        <div>
+            <a href="./img/RedHat/british-pound.svg">SVG</a>
+            <div class="img-title">british-pound</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bubble-wrap" src="./img/RedHat/bubble-wrap.png" />
+        <div>
+            <a href="./img/RedHat/bubble-wrap.svg">SVG</a>
+            <div class="img-title">bubble-wrap</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bucket" src="./img/RedHat/bucket.png" />
+        <div>
+            <a href="./img/RedHat/bucket.svg">SVG</a>
+            <div class="img-title">bucket</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bug" src="./img/RedHat/bug.png" />
+        <div>
+            <a href="./img/RedHat/bug.svg">SVG</a>
+            <div class="img-title">bug</div>
+        </div>
+    </div>
+    <div>
+        <img alt="burndown-chart" src="./img/RedHat/burndown-chart.png" />
+        <div>
+            <a href="./img/RedHat/burndown-chart.svg">SVG</a>
+            <div class="img-title">burndown-chart</div>
+        </div>
+    </div>
+    <div>
+        <img alt="bus" src="./img/RedHat/bus.png" />
+        <div>
+            <a href="./img/RedHat/bus.svg">SVG</a>
+            <div class="img-title">bus</div>
+        </div>
+    </div>
+    <div>
+        <img alt="butterfly" src="./img/RedHat/butterfly.png" />
+        <div>
+            <a href="./img/RedHat/butterfly.svg">SVG</a>
+            <div class="img-title">butterfly</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cactus" src="./img/RedHat/cactus.png" />
+        <div>
+            <a href="./img/RedHat/cactus.svg">SVG</a>
+            <div class="img-title">cactus</div>
+        </div>
+    </div>
+    <div>
+        <img alt="calculator" src="./img/RedHat/calculator.png" />
+        <div>
+            <a href="./img/RedHat/calculator.svg">SVG</a>
+            <div class="img-title">calculator</div>
+        </div>
+    </div>
+    <div>
+        <img alt="calendar" src="./img/RedHat/calendar.png" />
+        <div>
+            <a href="./img/RedHat/calendar.svg">SVG</a>
+            <div class="img-title">calendar</div>
+        </div>
+    </div>
+    <div>
+        <img alt="call-to-action" src="./img/RedHat/call-to-action.png" />
+        <div>
+            <a href="./img/RedHat/call-to-action.svg">SVG</a>
+            <div class="img-title">call-to-action</div>
+        </div>
+    </div>
+    <div>
+        <img alt="camera" src="./img/RedHat/camera.png" />
+        <div>
+            <a href="./img/RedHat/camera.svg">SVG</a>
+            <div class="img-title">camera</div>
+        </div>
+    </div>
+    <div>
+        <img alt="candle" src="./img/RedHat/candle.png" />
+        <div>
+            <a href="./img/RedHat/candle.svg">SVG</a>
+            <div class="img-title">candle</div>
+        </div>
+    </div>
+    <div>
+        <img alt="capitol-building" src="./img/RedHat/capitol-building.png" />
+        <div>
+            <a href="./img/RedHat/capitol-building.svg">SVG</a>
+            <div class="img-title">capitol-building</div>
+        </div>
+    </div>
+    <div>
+        <img alt="car-insurance" src="./img/RedHat/car-insurance.png" />
+        <div>
+            <a href="./img/RedHat/car-insurance.svg">SVG</a>
+            <div class="img-title">car-insurance</div>
+        </div>
+    </div>
+    <div>
+        <img alt="car-side-view" src="./img/RedHat/car-side-view.png" />
+        <div>
+            <a href="./img/RedHat/car-side-view.svg">SVG</a>
+            <div class="img-title">car-side-view</div>
+        </div>
+    </div>
+    <div>
+        <img alt="car" src="./img/RedHat/car.png" />
+        <div>
+            <a href="./img/RedHat/car.svg">SVG</a>
+            <div class="img-title">car</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cardboard-box" src="./img/RedHat/cardboard-box.png" />
+        <div>
+            <a href="./img/RedHat/cardboard-box.svg">SVG</a>
+            <div class="img-title">cardboard-box</div>
+        </div>
+    </div>
+    <div>
+        <img alt="carrot" src="./img/RedHat/carrot.png" />
+        <div>
+            <a href="./img/RedHat/carrot.svg">SVG</a>
+            <div class="img-title">carrot</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cart" src="./img/RedHat/cart.png" />
+        <div>
+            <a href="./img/RedHat/cart.svg">SVG</a>
+            <div class="img-title">cart</div>
+        </div>
+    </div>
+    <div>
+        <img alt="case-study" src="./img/RedHat/case-study.png" />
+        <div>
+            <a href="./img/RedHat/case-study.svg">SVG</a>
+            <div class="img-title">case-study</div>
+        </div>
+    </div>
+    <div>
+        <img alt="catalog" src="./img/RedHat/catalog.png" />
+        <div>
+            <a href="./img/RedHat/catalog.svg">SVG</a>
+            <div class="img-title">catalog</div>
+        </div>
+    </div>
+    <div>
+        <img alt="celebration" src="./img/RedHat/celebration.png" />
+        <div>
+            <a href="./img/RedHat/celebration.svg">SVG</a>
+            <div class="img-title">celebration</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ceo-businessleader" src="./img/RedHat/ceo-businessleader.png" />
+        <div>
+            <a href="./img/RedHat/ceo-businessleader.svg">SVG</a>
+            <div class="img-title">ceo-businessleader</div>
+        </div>
+    </div>
+    <div>
+        <img alt="certification" src="./img/RedHat/certification.png" />
+        <div>
+            <a href="./img/RedHat/certification.svg">SVG</a>
+            <div class="img-title">certification</div>
+        </div>
+    </div>
+    <div>
+        <img alt="chair" src="./img/RedHat/chair.png" />
+        <div>
+            <a href="./img/RedHat/chair.svg">SVG</a>
+            <div class="img-title">chair</div>
+        </div>
+    </div>
+    <div>
+        <img alt="check" src="./img/RedHat/check.png" />
+        <div>
+            <a href="./img/RedHat/check.svg">SVG</a>
+            <div class="img-title">check</div>
+        </div>
+    </div>
+    <div>
+        <img alt="checkbox-blank" src="./img/RedHat/checkbox-blank.png" />
+        <div>
+            <a href="./img/RedHat/checkbox-blank.svg">SVG</a>
+            <div class="img-title">checkbox-blank</div>
+        </div>
+    </div>
+    <div>
+        <img alt="checkbox-checked" src="./img/RedHat/checkbox-checked.png" />
+        <div>
+            <a href="./img/RedHat/checkbox-checked.svg">SVG</a>
+            <div class="img-title">checkbox-checked</div>
+        </div>
+    </div>
+    <div>
+        <img alt="checkbox-indeterminate" src="./img/RedHat/checkbox-indeterminate.png" />
+        <div>
+            <a href="./img/RedHat/checkbox-indeterminate.svg">SVG</a>
+            <div class="img-title">checkbox-indeterminate</div>
+        </div>
+    </div>
+    <div>
+        <img alt="checklist" src="./img/RedHat/checklist.png" />
+        <div>
+            <a href="./img/RedHat/checklist.svg">SVG</a>
+            <div class="img-title">checklist</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cheeseburger" src="./img/RedHat/cheeseburger.png" />
+        <div>
+            <a href="./img/RedHat/cheeseburger.svg">SVG</a>
+            <div class="img-title">cheeseburger</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cio-it-decision-maker" src="./img/RedHat/cio-it-decision-maker.png" />
+        <div>
+            <a href="./img/RedHat/cio-it-decision-maker.svg">SVG</a>
+            <div class="img-title">cio-it-decision-maker</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cio-itdm" src="./img/RedHat/cio-itdm.png" />
+        <div>
+            <a href="./img/RedHat/cio-itdm.svg">SVG</a>
+            <div class="img-title">cio-itdm</div>
+        </div>
+    </div>
+    <div>
+        <img alt="circuit" src="./img/RedHat/circuit.png" />
+        <div>
+            <a href="./img/RedHat/circuit.svg">SVG</a>
+            <div class="img-title">circuit</div>
+        </div>
+    </div>
+    <div>
+        <img alt="city" src="./img/RedHat/city.png" />
+        <div>
+            <a href="./img/RedHat/city.svg">SVG</a>
+            <div class="img-title">city</div>
+        </div>
+    </div>
+    <div>
+        <img alt="click" src="./img/RedHat/click.png" />
+        <div>
+            <a href="./img/RedHat/click.svg">SVG</a>
+            <div class="img-title">click</div>
+        </div>
+    </div>
+    <div>
+        <img alt="clipboard-checklist" src="./img/RedHat/clipboard-checklist.png" />
+        <div>
+            <a href="./img/RedHat/clipboard-checklist.svg">SVG</a>
+            <div class="img-title">clipboard-checklist</div>
+        </div>
+    </div>
+    <div>
+        <img alt="clock" src="./img/RedHat/clock.png" />
+        <div>
+            <a href="./img/RedHat/clock.svg">SVG</a>
+            <div class="img-title">clock</div>
+        </div>
+    </div>
+    <div>
+        <img alt="clothes-hanger" src="./img/RedHat/clothes-hanger.png" />
+        <div>
+            <a href="./img/RedHat/clothes-hanger.svg">SVG</a>
+            <div class="img-title">clothes-hanger</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cloud-automation" src="./img/RedHat/cloud-automation.png" />
+        <div>
+            <a href="./img/RedHat/cloud-automation.svg">SVG</a>
+            <div class="img-title">cloud-automation</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cloud-deploy" src="./img/RedHat/cloud-deploy.png" />
+        <div>
+            <a href="./img/RedHat/cloud-deploy.svg">SVG</a>
+            <div class="img-title">cloud-deploy</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cloud-inspect" src="./img/RedHat/cloud-inspect.png" />
+        <div>
+            <a href="./img/RedHat/cloud-inspect.svg">SVG</a>
+            <div class="img-title">cloud-inspect</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cloud-migration" src="./img/RedHat/cloud-migration.png" />
+        <div>
+            <a href="./img/RedHat/cloud-migration.svg">SVG</a>
+            <div class="img-title">cloud-migration</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cloud-native-development" src="./img/RedHat/cloud-native-development.png" />
+        <div>
+            <a href="./img/RedHat/cloud-native-development.svg">SVG</a>
+            <div class="img-title">cloud-native-development</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cloud-private" src="./img/RedHat/cloud-private.png" />
+        <div>
+            <a href="./img/RedHat/cloud-private.svg">SVG</a>
+            <div class="img-title">cloud-private</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cloud-secured" src="./img/RedHat/cloud-secured.png" />
+        <div>
+            <a href="./img/RedHat/cloud-secured.svg">SVG</a>
+            <div class="img-title">cloud-secured</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cloud-services" src="./img/RedHat/cloud-services.png" />
+        <div>
+            <a href="./img/RedHat/cloud-services.svg">SVG</a>
+            <div class="img-title">cloud-services</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cloud-unsecured" src="./img/RedHat/cloud-unsecured.png" />
+        <div>
+            <a href="./img/RedHat/cloud-unsecured.svg">SVG</a>
+            <div class="img-title">cloud-unsecured</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cloud-update" src="./img/RedHat/cloud-update.png" />
+        <div>
+            <a href="./img/RedHat/cloud-update.svg">SVG</a>
+            <div class="img-title">cloud-update</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cloud" src="./img/RedHat/cloud.png" />
+        <div>
+            <a href="./img/RedHat/cloud.svg">SVG</a>
+            <div class="img-title">cloud</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cluster" src="./img/RedHat/cluster.png" />
+        <div>
+            <a href="./img/RedHat/cluster.svg">SVG</a>
+            <div class="img-title">cluster</div>
+        </div>
+    </div>
+    <div>
+        <img alt="coaxial-cable" src="./img/RedHat/coaxial-cable.png" />
+        <div>
+            <a href="./img/RedHat/coaxial-cable.svg">SVG</a>
+            <div class="img-title">coaxial-cable</div>
+        </div>
+    </div>
+    <div>
+        <img alt="code-branch" src="./img/RedHat/code-branch.png" />
+        <div>
+            <a href="./img/RedHat/code-branch.svg">SVG</a>
+            <div class="img-title">code-branch</div>
+        </div>
+    </div>
+    <div>
+        <img alt="code" src="./img/RedHat/code.png" />
+        <div>
+            <a href="./img/RedHat/code.svg">SVG</a>
+            <div class="img-title">code</div>
+        </div>
+    </div>
+    <div>
+        <img alt="coffee-beans" src="./img/RedHat/coffee-beans.png" />
+        <div>
+            <a href="./img/RedHat/coffee-beans.svg">SVG</a>
+            <div class="img-title">coffee-beans</div>
+        </div>
+    </div>
+    <div>
+        <img alt="coffee-pot" src="./img/RedHat/coffee-pot.png" />
+        <div>
+            <a href="./img/RedHat/coffee-pot.svg">SVG</a>
+            <div class="img-title">coffee-pot</div>
+        </div>
+    </div>
+    <div>
+        <img alt="collaboration" src="./img/RedHat/collaboration.png" />
+        <div>
+            <a href="./img/RedHat/collaboration.svg">SVG</a>
+            <div class="img-title">collaboration</div>
+        </div>
+    </div>
+    <div>
+        <img alt="combustible" src="./img/RedHat/combustible.png" />
+        <div>
+            <a href="./img/RedHat/combustible.svg">SVG</a>
+            <div class="img-title">combustible</div>
+        </div>
+    </div>
+    <div>
+        <img alt="command-line" src="./img/RedHat/command-line.png" />
+        <div>
+            <a href="./img/RedHat/command-line.svg">SVG</a>
+            <div class="img-title">command-line</div>
+        </div>
+    </div>
+    <div>
+        <img alt="community-culture" src="./img/RedHat/community-culture.png" />
+        <div>
+            <a href="./img/RedHat/community-culture.svg">SVG</a>
+            <div class="img-title">community-culture</div>
+        </div>
+    </div>
+    <div>
+        <img alt="community-people" src="./img/RedHat/community-people.png" />
+        <div>
+            <a href="./img/RedHat/community-people.svg">SVG</a>
+            <div class="img-title">community-people</div>
+        </div>
+    </div>
+    <div>
+        <img alt="compass" src="./img/RedHat/compass.png" />
+        <div>
+            <a href="./img/RedHat/compass.svg">SVG</a>
+            <div class="img-title">compass</div>
+        </div>
+    </div>
+    <div>
+        <img alt="completed-product" src="./img/RedHat/completed-product.png" />
+        <div>
+            <a href="./img/RedHat/completed-product.svg">SVG</a>
+            <div class="img-title">completed-product</div>
+        </div>
+    </div>
+    <div>
+        <img alt="compostable-plastic" src="./img/RedHat/compostable-plastic.png" />
+        <div>
+            <a href="./img/RedHat/compostable-plastic.svg">SVG</a>
+            <div class="img-title">compostable-plastic</div>
+        </div>
+    </div>
+    <div>
+        <img alt="confidential" src="./img/RedHat/confidential.png" />
+        <div>
+            <a href="./img/RedHat/confidential.svg">SVG</a>
+            <div class="img-title">confidential</div>
+        </div>
+    </div>
+    <div>
+        <img alt="container-image" src="./img/RedHat/container-image.png" />
+        <div>
+            <a href="./img/RedHat/container-image.svg">SVG</a>
+            <div class="img-title">container-image</div>
+        </div>
+    </div>
+    <div>
+        <img alt="container-microservice" src="./img/RedHat/container-microservice.png" />
+        <div>
+            <a href="./img/RedHat/container-microservice.svg">SVG</a>
+            <div class="img-title">container-microservice</div>
+        </div>
+    </div>
+    <div>
+        <img alt="container-private" src="./img/RedHat/container-private.png" />
+        <div>
+            <a href="./img/RedHat/container-private.svg">SVG</a>
+            <div class="img-title">container-private</div>
+        </div>
+    </div>
+    <div>
+        <img alt="container-registry" src="./img/RedHat/container-registry.png" />
+        <div>
+            <a href="./img/RedHat/container-registry.svg">SVG</a>
+            <div class="img-title">container-registry</div>
+        </div>
+    </div>
+    <div>
+        <img alt="container-secured" src="./img/RedHat/container-secured.png" />
+        <div>
+            <a href="./img/RedHat/container-secured.svg">SVG</a>
+            <div class="img-title">container-secured</div>
+        </div>
+    </div>
+    <div>
+        <img alt="container-unsecured" src="./img/RedHat/container-unsecured.png" />
+        <div>
+            <a href="./img/RedHat/container-unsecured.svg">SVG</a>
+            <div class="img-title">container-unsecured</div>
+        </div>
+    </div>
+    <div>
+        <img alt="container" src="./img/RedHat/container.png" />
+        <div>
+            <a href="./img/RedHat/container.svg">SVG</a>
+            <div class="img-title">container</div>
+        </div>
+    </div>
+    <div>
+        <img alt="containerized-app" src="./img/RedHat/containerized-app.png" />
+        <div>
+            <a href="./img/RedHat/containerized-app.svg">SVG</a>
+            <div class="img-title">containerized-app</div>
+        </div>
+    </div>
+    <div>
+        <img alt="control-panel" src="./img/RedHat/control-panel.png" />
+        <div>
+            <a href="./img/RedHat/control-panel.svg">SVG</a>
+            <div class="img-title">control-panel</div>
+        </div>
+    </div>
+    <div>
+        <img alt="conversation" src="./img/RedHat/conversation.png" />
+        <div>
+            <a href="./img/RedHat/conversation.svg">SVG</a>
+            <div class="img-title">conversation</div>
+        </div>
+    </div>
+    <div>
+        <img alt="couch" src="./img/RedHat/couch.png" />
+        <div>
+            <a href="./img/RedHat/couch.svg">SVG</a>
+            <div class="img-title">couch</div>
+        </div>
+    </div>
+    <div>
+        <img alt="covered-dish" src="./img/RedHat/covered-dish.png" />
+        <div>
+            <a href="./img/RedHat/covered-dish.svg">SVG</a>
+            <div class="img-title">covered-dish</div>
+        </div>
+    </div>
+    <div>
+        <img alt="crab" src="./img/RedHat/crab.png" />
+        <div>
+            <a href="./img/RedHat/crab.svg">SVG</a>
+            <div class="img-title">crab</div>
+        </div>
+    </div>
+    <div>
+        <img alt="craft-paper" src="./img/RedHat/craft-paper.png" />
+        <div>
+            <a href="./img/RedHat/craft-paper.svg">SVG</a>
+            <div class="img-title">craft-paper</div>
+        </div>
+    </div>
+    <div>
+        <img alt="crawl-arrow" src="./img/RedHat/crawl-arrow.png" />
+        <div>
+            <a href="./img/RedHat/crawl-arrow.svg">SVG</a>
+            <div class="img-title">crawl-arrow</div>
+        </div>
+    </div>
+    <div>
+        <img alt="credit-card" src="./img/RedHat/credit-card.png" />
+        <div>
+            <a href="./img/RedHat/credit-card.svg">SVG</a>
+            <div class="img-title">credit-card</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cricket-bats" src="./img/RedHat/cricket-bats.png" />
+        <div>
+            <a href="./img/RedHat/cricket-bats.svg">SVG</a>
+            <div class="img-title">cricket-bats</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cross-functional-collaboration" src="./img/RedHat/cross-functional-collaboration.png" />
+        <div>
+            <a href="./img/RedHat/cross-functional-collaboration.svg">SVG</a>
+            <div class="img-title">cross-functional-collaboration</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cross" src="./img/RedHat/cross.png" />
+        <div>
+            <a href="./img/RedHat/cross.svg">SVG</a>
+            <div class="img-title">cross</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cup" src="./img/RedHat/cup.png" />
+        <div>
+            <a href="./img/RedHat/cup.svg">SVG</a>
+            <div class="img-title">cup</div>
+        </div>
+    </div>
+    <div>
+        <img alt="cursor" src="./img/RedHat/cursor.png" />
+        <div>
+            <a href="./img/RedHat/cursor.svg">SVG</a>
+            <div class="img-title">cursor</div>
+        </div>
+    </div>
+    <div>
+        <img alt="data-connections" src="./img/RedHat/data-connections.png" />
+        <div>
+            <a href="./img/RedHat/data-connections.svg">SVG</a>
+            <div class="img-title">data-connections</div>
+        </div>
+    </div>
+    <div>
+        <img alt="data-sovereignty" src="./img/RedHat/data-sovereignty.png" />
+        <div>
+            <a href="./img/RedHat/data-sovereignty.svg">SVG</a>
+            <div class="img-title">data-sovereignty</div>
+        </div>
+    </div>
+    <div>
+        <img alt="data" src="./img/RedHat/data.png" />
+        <div>
+            <a href="./img/RedHat/data.svg">SVG</a>
+            <div class="img-title">data</div>
+        </div>
+    </div>
+    <div>
+        <img alt="datacenter" src="./img/RedHat/datacenter.png" />
+        <div>
+            <a href="./img/RedHat/datacenter.svg">SVG</a>
+            <div class="img-title">datacenter</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ddr-memory" src="./img/RedHat/ddr-memory.png" />
+        <div>
+            <a href="./img/RedHat/ddr-memory.svg">SVG</a>
+            <div class="img-title">ddr-memory</div>
+        </div>
+    </div>
+    <div>
+        <img alt="deployed-model" src="./img/RedHat/deployed-model.png" />
+        <div>
+            <a href="./img/RedHat/deployed-model.svg">SVG</a>
+            <div class="img-title">deployed-model</div>
+        </div>
+    </div>
+    <div>
+        <img alt="develop-and-train" src="./img/RedHat/develop-and-train.png" />
+        <div>
+            <a href="./img/RedHat/develop-and-train.svg">SVG</a>
+            <div class="img-title">develop-and-train</div>
+        </div>
+    </div>
+    <div>
+        <img alt="developer" src="./img/RedHat/developer.png" />
+        <div>
+            <a href="./img/RedHat/developer.svg">SVG</a>
+            <div class="img-title">developer</div>
+        </div>
+    </div>
+    <div>
+        <img alt="development-model" src="./img/RedHat/development-model.png" />
+        <div>
+            <a href="./img/RedHat/development-model.svg">SVG</a>
+            <div class="img-title">development-model</div>
+        </div>
+    </div>
+    <div>
+        <img alt="devops" src="./img/RedHat/devops.png" />
+        <div>
+            <a href="./img/RedHat/devops.svg">SVG</a>
+            <div class="img-title">devops</div>
+        </div>
+    </div>
+    <div>
+        <img alt="digital-assessment" src="./img/RedHat/digital-assessment.png" />
+        <div>
+            <a href="./img/RedHat/digital-assessment.svg">SVG</a>
+            <div class="img-title">digital-assessment</div>
+        </div>
+    </div>
+    <div>
+        <img alt="digital-standup" src="./img/RedHat/digital-standup.png" />
+        <div>
+            <a href="./img/RedHat/digital-standup.svg">SVG</a>
+            <div class="img-title">digital-standup</div>
+        </div>
+    </div>
+    <div>
+        <img alt="digital-transformation" src="./img/RedHat/digital-transformation.png" />
+        <div>
+            <a href="./img/RedHat/digital-transformation.svg">SVG</a>
+            <div class="img-title">digital-transformation</div>
+        </div>
+    </div>
+    <div>
+        <img alt="disc" src="./img/RedHat/disc.png" />
+        <div>
+            <a href="./img/RedHat/disc.svg">SVG</a>
+            <div class="img-title">disc</div>
+        </div>
+    </div>
+    <div>
+        <img alt="dishes" src="./img/RedHat/dishes.png" />
+        <div>
+            <a href="./img/RedHat/dishes.svg">SVG</a>
+            <div class="img-title">dishes</div>
+        </div>
+    </div>
+    <div>
+        <img alt="dishwasher" src="./img/RedHat/dishwasher.png" />
+        <div>
+            <a href="./img/RedHat/dishwasher.svg">SVG</a>
+            <div class="img-title">dishwasher</div>
+        </div>
+    </div>
+    <div>
+        <img alt="disruption" src="./img/RedHat/disruption.png" />
+        <div>
+            <a href="./img/RedHat/disruption.svg">SVG</a>
+            <div class="img-title">disruption</div>
+        </div>
+    </div>
+    <div>
+        <img alt="dollar-sign-decreasing" src="./img/RedHat/dollar-sign-decreasing.png" />
+        <div>
+            <a href="./img/RedHat/dollar-sign-decreasing.svg">SVG</a>
+            <div class="img-title">dollar-sign-decreasing</div>
+        </div>
+    </div>
+    <div>
+        <img alt="dollar-sign-increasing" src="./img/RedHat/dollar-sign-increasing.png" />
+        <div>
+            <a href="./img/RedHat/dollar-sign-increasing.svg">SVG</a>
+            <div class="img-title">dollar-sign-increasing</div>
+        </div>
+    </div>
+    <div>
+        <img alt="dollar-sign" src="./img/RedHat/dollar-sign.png" />
+        <div>
+            <a href="./img/RedHat/dollar-sign.svg">SVG</a>
+            <div class="img-title">dollar-sign</div>
+        </div>
+    </div>
+    <div>
+        <img alt="donut" src="./img/RedHat/donut.png" />
+        <div>
+            <a href="./img/RedHat/donut.svg">SVG</a>
+            <div class="img-title">donut</div>
+        </div>
+    </div>
+    <div>
+        <img alt="download" src="./img/RedHat/download.png" />
+        <div>
+            <a href="./img/RedHat/download.svg">SVG</a>
+            <div class="img-title">download</div>
+        </div>
+    </div>
+    <div>
+        <img alt="drone" src="./img/RedHat/drone.png" />
+        <div>
+            <a href="./img/RedHat/drone.svg">SVG</a>
+            <div class="img-title">drone</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ear" src="./img/RedHat/ear.png" />
+        <div>
+            <a href="./img/RedHat/ear.svg">SVG</a>
+            <div class="img-title">ear</div>
+        </div>
+    </div>
+    <div>
+        <img alt="ebook" src="./img/RedHat/ebook.png" />
+        <div>
+            <a href="./img/RedHat/ebook.svg">SVG</a>
+            <div class="img-title">ebook</div>
+        </div>
+    </div>
+    <div>
+        <img alt="edge" src="./img/RedHat/edge.png" />
+        <div>
+            <a href="./img/RedHat/edge.svg">SVG</a>
+            <div class="img-title">edge</div>
+        </div>
+    </div>
+    <div>
+        <img alt="electrical-bolt" src="./img/RedHat/electrical-bolt.png" />
+        <div>
+            <a href="./img/RedHat/electrical-bolt.svg">SVG</a>
+            <div class="img-title">electrical-bolt</div>
+        </div>
+    </div>
+    <div>
+        <img alt="electrical-plug" src="./img/RedHat/electrical-plug.png" />
+        <div>
+            <a href="./img/RedHat/electrical-plug.svg">SVG</a>
+            <div class="img-title">electrical-plug</div>
+        </div>
+    </div>
+    <div>
+        <img alt="elevator" src="./img/RedHat/elevator.png" />
+        <div>
+            <a href="./img/RedHat/elevator.svg">SVG</a>
+            <div class="img-title">elevator</div>
+        </div>
+    </div>
+    <div>
+        <img alt="email" src="./img/RedHat/email.png" />
+        <div>
+            <a href="./img/RedHat/email.svg">SVG</a>
+            <div class="img-title">email</div>
+        </div>
+    </div>
+    <div>
+        <img alt="embedded" src="./img/RedHat/embedded.png" />
+        <div>
+            <a href="./img/RedHat/embedded.svg">SVG</a>
+            <div class="img-title">embedded</div>
+        </div>
+    </div>
+    <div>
+        <img alt="emergency-aed" src="./img/RedHat/emergency-aed.png" />
+        <div>
+            <a href="./img/RedHat/emergency-aed.svg">SVG</a>
+            <div class="img-title">emergency-aed</div>
+        </div>
+    </div>
+    <div>
+        <img alt="employee-badge" src="./img/RedHat/employee-badge.png" />
+        <div>
+            <a href="./img/RedHat/employee-badge.svg">SVG</a>
+            <div class="img-title">employee-badge</div>
+        </div>
+    </div>
+    <div>
+        <img alt="envelope-manilla" src="./img/RedHat/envelope-manilla.png" />
+        <div>
+            <a href="./img/RedHat/envelope-manilla.svg">SVG</a>
+            <div class="img-title">envelope-manilla</div>
+        </div>
+    </div>
+    <div>
+        <img alt="envelope" src="./img/RedHat/envelope.png" />
+        <div>
+            <a href="./img/RedHat/envelope.svg">SVG</a>
+            <div class="img-title">envelope</div>
+        </div>
+    </div>
+    <div>
+        <img alt="erlenmeyer-flask" src="./img/RedHat/erlenmeyer-flask.png" />
+        <div>
+            <a href="./img/RedHat/erlenmeyer-flask.svg">SVG</a>
+            <div class="img-title">erlenmeyer-flask</div>
+        </div>
+    </div>
+    <div>
+        <img alt="escalator-down" src="./img/RedHat/escalator-down.png" />
+        <div>
+            <a href="./img/RedHat/escalator-down.svg">SVG</a>
+            <div class="img-title">escalator-down</div>
+        </div>
+    </div>
+    <div>
+        <img alt="escalator-up" src="./img/RedHat/escalator-up.png" />
+        <div>
+            <a href="./img/RedHat/escalator-up.svg">SVG</a>
+            <div class="img-title">escalator-up</div>
+        </div>
+    </div>
+    <div>
+        <img alt="euro-decreasing" src="./img/RedHat/euro-decreasing.png" />
+        <div>
+            <a href="./img/RedHat/euro-decreasing.svg">SVG</a>
+            <div class="img-title">euro-decreasing</div>
+        </div>
+    </div>
+    <div>
+        <img alt="euro-increasing" src="./img/RedHat/euro-increasing.png" />
+        <div>
+            <a href="./img/RedHat/euro-increasing.svg">SVG</a>
+            <div class="img-title">euro-increasing</div>
+        </div>
+    </div>
+    <div>
+        <img alt="euro" src="./img/RedHat/euro.png" />
+        <div>
+            <a href="./img/RedHat/euro.svg">SVG</a>
+            <div class="img-title">euro</div>
+        </div>
+    </div>
+    <div>
+        <img alt="everything-as-a-service" src="./img/RedHat/everything-as-a-service.png" />
+        <div>
+            <a href="./img/RedHat/everything-as-a-service.svg">SVG</a>
+            <div class="img-title">everything-as-a-service</div>
+        </div>
+    </div>
+    <div>
+        <img alt="face-mask" src="./img/RedHat/face-mask.png" />
+        <div>
+            <a href="./img/RedHat/face-mask.svg">SVG</a>
+            <div class="img-title">face-mask</div>
+        </div>
+    </div>
+    <div>
+        <img alt="farm-tools" src="./img/RedHat/farm-tools.png" />
+        <div>
+            <a href="./img/RedHat/farm-tools.svg">SVG</a>
+            <div class="img-title">farm-tools</div>
+        </div>
+    </div>
+    <div>
+        <img alt="fast-forward" src="./img/RedHat/fast-forward.png" />
+        <div>
+            <a href="./img/RedHat/fast-forward.svg">SVG</a>
+            <div class="img-title">fast-forward</div>
+        </div>
+    </div>
+    <div>
+        <img alt="fighter-jet" src="./img/RedHat/fighter-jet.png" />
+        <div>
+            <a href="./img/RedHat/fighter-jet.svg">SVG</a>
+            <div class="img-title">fighter-jet</div>
+        </div>
+    </div>
+    <div>
+        <img alt="filter" src="./img/RedHat/filter.png" />
+        <div>
+            <a href="./img/RedHat/filter.svg">SVG</a>
+            <div class="img-title">filter</div>
+        </div>
+    </div>
+    <div>
+        <img alt="fingerprint" src="./img/RedHat/fingerprint.png" />
+        <div>
+            <a href="./img/RedHat/fingerprint.svg">SVG</a>
+            <div class="img-title">fingerprint</div>
+        </div>
+    </div>
+    <div>
+        <img alt="fire-extinguisher" src="./img/RedHat/fire-extinguisher.png" />
+        <div>
+            <a href="./img/RedHat/fire-extinguisher.svg">SVG</a>
+            <div class="img-title">fire-extinguisher</div>
+        </div>
+    </div>
+    <div>
+        <img alt="firewall-a" src="./img/RedHat/firewall-a.png" />
+        <div>
+            <a href="./img/RedHat/firewall-a.svg">SVG</a>
+            <div class="img-title">firewall-a</div>
+        </div>
+    </div>
+    <div>
+        <img alt="fish" src="./img/RedHat/fish.png" />
+        <div>
+            <a href="./img/RedHat/fish.svg">SVG</a>
+            <div class="img-title">fish</div>
+        </div>
+    </div>
+    <div>
+        <img alt="flag" src="./img/RedHat/flag.png" />
+        <div>
+            <a href="./img/RedHat/flag.svg">SVG</a>
+            <div class="img-title">flag</div>
+        </div>
+    </div>
+    <div>
+        <img alt="flight-helmet" src="./img/RedHat/flight-helmet.png" />
+        <div>
+            <a href="./img/RedHat/flight-helmet.svg">SVG</a>
+            <div class="img-title">flight-helmet</div>
+        </div>
+    </div>
+    <div>
+        <img alt="flowchart" src="./img/RedHat/flowchart.png" />
+        <div>
+            <a href="./img/RedHat/flowchart.svg">SVG</a>
+            <div class="img-title">flowchart</div>
+        </div>
+    </div>
+    <div>
+        <img alt="folder" src="./img/RedHat/folder.png" />
+        <div>
+            <a href="./img/RedHat/folder.svg">SVG</a>
+            <div class="img-title">folder</div>
+        </div>
+    </div>
+    <div>
+        <img alt="forklift" src="./img/RedHat/forklift.png" />
+        <div>
+            <a href="./img/RedHat/forklift.svg">SVG</a>
+            <div class="img-title">forklift</div>
+        </div>
+    </div>
+    <div>
+        <img alt="freezer" src="./img/RedHat/freezer.png" />
+        <div>
+            <a href="./img/RedHat/freezer.svg">SVG</a>
+            <div class="img-title">freezer</div>
+        </div>
+    </div>
+    <div>
+        <img alt="frozen-food-packaging" src="./img/RedHat/frozen-food-packaging.png" />
+        <div>
+            <a href="./img/RedHat/frozen-food-packaging.svg">SVG</a>
+            <div class="img-title">frozen-food-packaging</div>
+        </div>
+    </div>
+    <div>
+        <img alt="game-controller" src="./img/RedHat/game-controller.png" />
+        <div>
+            <a href="./img/RedHat/game-controller.svg">SVG</a>
+            <div class="img-title">game-controller</div>
+        </div>
+    </div>
+    <div>
+        <img alt="game-plan" src="./img/RedHat/game-plan.png" />
+        <div>
+            <a href="./img/RedHat/game-plan.svg">SVG</a>
+            <div class="img-title">game-plan</div>
+        </div>
+    </div>
+    <div>
+        <img alt="game-streaming" src="./img/RedHat/game-streaming.png" />
+        <div>
+            <a href="./img/RedHat/game-streaming.svg">SVG</a>
+            <div class="img-title">game-streaming</div>
+        </div>
+    </div>
+    <div>
+        <img alt="gateway" src="./img/RedHat/gateway.png" />
+        <div>
+            <a href="./img/RedHat/gateway.svg">SVG</a>
+            <div class="img-title">gateway</div>
+        </div>
+    </div>
+    <div>
+        <img alt="gear-group" src="./img/RedHat/gear-group.png" />
+        <div>
+            <a href="./img/RedHat/gear-group.svg">SVG</a>
+            <div class="img-title">gear-group</div>
+        </div>
+    </div>
+    <div>
+        <img alt="gear" src="./img/RedHat/gear.png" />
+        <div>
+            <a href="./img/RedHat/gear.svg">SVG</a>
+            <div class="img-title">gear</div>
+        </div>
+    </div>
+    <div>
+        <img alt="gift-box" src="./img/RedHat/gift-box.png" />
+        <div>
+            <a href="./img/RedHat/gift-box.svg">SVG</a>
+            <div class="img-title">gift-box</div>
+        </div>
+    </div>
+    <div>
+        <img alt="glass-bottle" src="./img/RedHat/glass-bottle.png" />
+        <div>
+            <a href="./img/RedHat/glass-bottle.svg">SVG</a>
+            <div class="img-title">glass-bottle</div>
+        </div>
+    </div>
+    <div>
+        <img alt="globe-abstract" src="./img/RedHat/globe-abstract.png" />
+        <div>
+            <a href="./img/RedHat/globe-abstract.svg">SVG</a>
+            <div class="img-title">globe-abstract</div>
+        </div>
+    </div>
+    <div>
+        <img alt="globe" src="./img/RedHat/globe.png" />
+        <div>
+            <a href="./img/RedHat/globe.svg">SVG</a>
+            <div class="img-title">globe</div>
+        </div>
+    </div>
+    <div>
+        <img alt="government" src="./img/RedHat/government.png" />
+        <div>
+            <a href="./img/RedHat/government.svg">SVG</a>
+            <div class="img-title">government</div>
+        </div>
+    </div>
+    <div>
+        <img alt="gpu" src="./img/RedHat/gpu.png" />
+        <div>
+            <a href="./img/RedHat/gpu.svg">SVG</a>
+            <div class="img-title">gpu</div>
+        </div>
+    </div>
+    <div>
+        <img alt="graduation-cap" src="./img/RedHat/graduation-cap.png" />
+        <div>
+            <a href="./img/RedHat/graduation-cap.svg">SVG</a>
+            <div class="img-title">graduation-cap</div>
+        </div>
+    </div>
+    <div>
+        <img alt="graph-exponential-down" src="./img/RedHat/graph-exponential-down.png" />
+        <div>
+            <a href="./img/RedHat/graph-exponential-down.svg">SVG</a>
+            <div class="img-title">graph-exponential-down</div>
+        </div>
+    </div>
+    <div>
+        <img alt="graph-exponential-up" src="./img/RedHat/graph-exponential-up.png" />
+        <div>
+            <a href="./img/RedHat/graph-exponential-up.svg">SVG</a>
+            <div class="img-title">graph-exponential-up</div>
+        </div>
+    </div>
+    <div>
+        <img alt="graph-line-up" src="./img/RedHat/graph-line-up.png" />
+        <div>
+            <a href="./img/RedHat/graph-line-up.svg">SVG</a>
+            <div class="img-title">graph-line-up</div>
+        </div>
+    </div>
+</div>
